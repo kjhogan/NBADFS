@@ -3,8 +3,8 @@ get_Player_List <- function(season = '2016-17') {
   library(tidyverse)
   library(jsonlite)
   library(rvest)
-  
-  player_info <- html(paste0('http://stats.nba.com/stats/commonallplayers?LeagueID=00&Season=',season,'&IsOnlyCurrentSeason=1'))
+  library(stringr)
+  player_info <- read_html(paste0('http://stats.nba.com/stats/commonallplayers?LeagueID=00&Season=',season,'&IsOnlyCurrentSeason=1'))
   
   json_data <- fromJSON(html_text(player_info))
   
@@ -27,7 +27,7 @@ url_json <-
   'http://stats.nba.com/stats/playergamelog?LeagueID=00&PlayerID=' %>%
   paste0(id.player, '&Season=2016-17&SeasonType=Regular+Season')
 
-gamelog_json <- html(url_json) %>% html_text() %>% fromJSON()
+gamelog_json <- read_html(url_json) %>% html_text() %>% fromJSON()
 if(gamelog_json$resultSets$rowSet == "NULL") {print(gamelog_json)}
 gamelog <- gamelog_json$resultSets$rowSet %>%
   data.frame(stringsAsFactors = F) %>%
