@@ -9,6 +9,10 @@ get_Daily_FD <- function(gamedate) {
     html_table(fill = T) %>% 
     filter (X1 %in% c('PG', 'SG', 'SF', 'PF', 'C')) 
   daydata$game.date <- gamedate 
+  daydata$cleanname <- gsub("\\^", '', daydata$X2)
+  daydata$cleanname <- sub("(\\w+),\\s(\\w+)", "\\2 \\1", daydata$cleanname)
+  colnames <- c('position', 'name', 'fdpts', 'salary', 'team', 'matchup', 'score', 'mins', 'line', 'date', 'cleanname' )
+  names(daydata) <- colnames
   return(daydata)
 }
 

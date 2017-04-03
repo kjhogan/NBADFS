@@ -15,7 +15,7 @@ get_Player_List <- function(season = '2016-17') {
   
   names(data) <- json_data$resultSets$headers %>% unlist
   data <- filter(data, !(DISPLAY_FIRST_LAST %in% c("Chris Bosh", "Festus Ezeli", "Nikola Pekovic", "Quincy Pondexter", "Ben Simmons", "Tiago Splitter",
-                                                   "Isaiah Taylor")))
+                                                   "Isaiah Taylor", "Patricio Garino", "Marcus Georges-Hunt")))
   return(data)
 }
 
