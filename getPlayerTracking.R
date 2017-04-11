@@ -1,5 +1,3 @@
-
-
 getTrackingData <- function(address) {
   web_page <- readLines(address)
   
@@ -36,8 +34,88 @@ updateTrackingData <- function() {
     return(df_list)
 }
 
-GetTeamHustleStats <- function(year, season.type, per.mode, quarter) {
+
+YearToSeason2 <- function(x) {
+  paste0(x - 1, '-', substring(x, 3, 4))
+}
+
+ContentToDF2 <- function(content) {
+  data <- content$rowSet
+  data <- lapply(data, lapply, function(x) ifelse(is.null(x), NA, x))   # Convert nulls to NAs
+  data <- data.frame(matrix(unlist(data), nrow = length(data), byrow = TRUE)) # Turn list to data frame
   
+  if (length(content$headers) == ncol(data)) {
+    colnames(data) <- content$headers
+    
+  } else { # Multiple levels of headers
+    headers <- lapply(colnames(data), function(x) c())
+    
+    for (col.level in 1:length(content$headers)) {
+      col.names <- content$headers[[col.level]]
+      
+      if ('columnsToSkip' %in% names(col.names)) {
+        start <- col.names$columnsToSkip + 1
+      } else {
+        start <- 1
+      }
+      span <- col.names$columnSpan
+      
+      col.ix <- 1
+      for (i in seq(from = start, to = ncol(data), by = span)) {
+        for (j in i:(i + span - 1)) {
+          headers[[j]] <- c(headers[[j]], col.names$columnNames[[col.ix]][1])
+        }
+        col.ix <- col.ix + 1
+      }
+    }
+    
+    colnames(data) <- sapply(headers, function(x) paste(x, collapse = '.'))
+  }
+  
+  return(data)
+}
+
+CleanParam2 <- function(param) {
+  
+  if (param == 'Basic') {
+    return('Base')
+    
+  } else if (param == '100 Possessions') {
+    return('Per100Possessions')
+    
+  } else if (param == 'Per Game') {
+    return('PerGame')
+    
+  } else if (param == 'Per 36 Minutes') {
+    return('Per36')
+    
+  } else if (param == 'Offensive') {
+    return('offensive')
+    
+  } else if (param == 'Defensive') {
+    return('defensive')
+    
+  } else if (param == 'Player') {
+    return('player')
+    
+  } else if (param == 'Team') {
+    return('team')
+    
+  } else {
+    return(param)
+  }
+}
+
+CHARACTER.COLUMNS2 <- c('GROUP_SET', 'GROUP_ID', 'GROUP_NAME', 'PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_NAME', 'TEAM_ABBREVIATION', 
+                       'CFID', 'CFPARAMS', 'Team_ID', 'Game_ID', 'GAME_DATE', 'MATCHUP', 'WL',
+                       'SHOT_TYPE', 'SHOT_CLOCK_RANGE', 'DRIBBLE_RANGE', 'VS_PLAYER_ID', 'VS_PLAYER_NAME', 'COURT_STATUS',
+                       'CLOSE_DEF_DIST_RANGE', 'TOUCH_TIME_RANGE', 'PLAYER_NAME_LAST_FIRST', 'CLOSE_DEF_PERSON_ID', 
+                       'PlayerIDSID', 'PlayerFirstName', 'PlayerLastName', 'P', 'TeamIDSID', 'TeamName', 
+                       'TeamNameAbbreviation', 'TeamShortName', 'name', 'seasonType', 'GROUP_VALUE',
+                       'PLAYER_LAST_TEAM_ID', 'PLAYER_LAST_TEAM_ABBREVIATION', 'PLAYER_POSITION', 'DEFENSE_CATEGORY',
+                       'GAME_ID', 'TEAM_CITY', 'START_POSITION', 'COMMENT', 'SEASON_ID', 'GAME_ID')
+GetTeamHustleStats2 <- function(year, season.type, per.mode, quarter) {
+  library(httr)
   request <- GET(
     "http://stats.nba.com/stats/leaguehustlestatsteam",
     query = list(

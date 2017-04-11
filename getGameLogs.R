@@ -79,5 +79,56 @@ get_Season_Gamelog <- function(season = '2016-17') {
   return(all_data)
 }
 
+getTeamStats <- function() {
+  
+  #tmstats <- fromJSON(html_text(read_html('http://stats.nba.com/stats/leaguedashteamstats?Conference=&DateFrom=&DateTo=&Division=&GameScope=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Advanced&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2016-17&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&StarterBench=&TeamID=0&VsConference=&VsDivision=')))
+  tmstats <- fromJSON(html_text(read_html('http://stats.nba.com/stats/leaguehustlestatsplayer?College=&Conference=&Country=&DateFrom=&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&Height=&LastNGames=0&LeagueID=00&Location=&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2016-17&SeasonSegment=&SeasonType=Regular+Season&TeamID=0&VsConference=&VsDivision=&Weight=')))
+  stats <- data.frame()
+  for(i in 1:485){
+    tempdf <- as.data.frame(matrix(unlist(tmstats$resultSets[[1]][[3]][[i]]),ncol = 13, byrow = T))
+    stats <- rbind(stats, tempdf)
+  }
+  names(stats) <- unlist(tmstats$resultSets[[1]][[2]])
+  stats <- stats %>% mutate_at(vars(AGE:SCREEN_ASSISTS),funs(as.numeric))
+  #teams <- sort(unique(stats$TEAM_NAME))
+  # conf <- data.frame(TEAM_NAME = teams, CONF = c("E", "E", "E", "E", 
+  #                                                "E", "E", "W", "W", 
+  #                                                "E", "W", "W", "E", 
+  #                                                "W", "W", "W", "E", 
+  #                                                "E", "W", "W", "E", 
+  #                                                "W", "E", "E", "W",
+  #                                                "W", "W", "W", "E", "W", "E"))
+  # stats <- left_join(stats, conf)
+  return(stats)
+}
 
 
+statsdf %>% filter(CONF == "E") %>% select(TEAM_NAME,W:W_PCT,NET_RATING, TS_PCT) %>% arrange(desc(W)) %>% formattable(list(
+       W = color_tile("white", "lightgreen"),
+       W_PCT = ~digits(W_PCT,2),
+       area(col = c(NET_RATING)) ~ normalize_bar("lightblue", 0.2),
+       TS_PCT = ~percent(TS_PCT, 1)
+   )) -> formattable1
+
+statsdf %>% ggplot(mapping = aes(x = OFF_RATING, y = DEF_RATING)) + 
+  geom_point(mapping = aes(color = NET_RATING, size = NET_RATING),alpha = .5) + 
+  geom_hline(yintercept = mean(statsdf$DEF_RATING), linetype = "dashed") + 
+  geom_vline(xintercept = mean(statsdf$OFF_RATING), linetype = "dashed") + 
+  geom_point(mapping = aes(size = NET_RATING),shape = 1, color = "black") + 
+  scale_y_reverse() + fte_theme() -> plot1
+
+
+library("htmltools")
+library("webshot")    
+
+export_formattable <- function(f, file, width = "100%", height = NULL, 
+                               background = "white", delay = 0.2)
+{
+  w <- as.htmlwidget(f, width = width, height = height)
+  path <- html_print(w, background = background, viewer = NULL)
+  url <- paste0("file:///", gsub("\\\\", "/", normalizePath(path)))
+  webshot(url,
+          file = file,
+          selector = ".formattable_widget",
+          delay = delay)
+}
