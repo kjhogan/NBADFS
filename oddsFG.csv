@@ -1,0 +1,447 @@
+"","teams","opp","date","opener.odds","opener.juice","pinn.odds","pinn.juice","opener","totals","totalsjuice"
+"1","San Antonio Stars","L.A. Sparks",2017-05-06,NA,-110,NA,-110,NA,NA,-110
+"2","L.A. Sparks","San Antonio Stars",2017-05-06,NA,-110,NA,-110,NA,NA,-110
+"3","Indiana Fever","Dallas Wings",2017-05-06,NA,-110,NA,-110,NA,NA,-110
+"4","Dallas Wings","Indiana Fever",2017-05-06,NA,-110,NA,-110,NA,NA,-110
+"5","Connecticut Sun","New York Liberty",2017-05-07,NA,-110,NA,-110,NA,NA,-110
+"6","New York Liberty","Connecticut Sun",2017-05-07,NA,-110,NA,-110,NA,NA,-110
+"7","Seattle Storm","Phoenix Mercury",2017-05-07,NA,-110,NA,-110,NA,NA,-110
+"8","Phoenix Mercury","Seattle Storm",2017-05-07,NA,-110,NA,-110,NA,NA,-110
+"9","San Antonio Stars","New York Liberty",2017-05-13,8.5,-110,13,-102,150.5,153,-106
+"10","New York Liberty","San Antonio Stars",2017-05-13,-8.5,-110,-13,-110,150.5,153,-108
+"11","Seattle Storm","L.A. Sparks",2017-05-13,7.5,-110,7.5,-105,145.5,151.5,-108
+"12","L.A. Sparks","Seattle Storm",2017-05-13,-7.5,-110,-7.5,-107,145.5,151.5,-106
+"13","Atlanta Dream","Connecticut Sun",2017-05-13,7,-110,5,-111,156,158,-109
+"14","Connecticut Sun","Atlanta Dream",2017-05-13,-7,-110,-5,-101,156,158,-105
+"15","San Antonio Stars","Washington Mystics",2017-05-14,16,-105,16.5,-107,154,154.5,-119
+"16","Washington Mystics","San Antonio Stars",2017-05-14,-16,-115,-16.5,-105,154,154.5,104
+"17","Dallas Wings","Phoenix Mercury",2017-05-14,8.5,-110,8,-105,165.5,161,-116
+"18","Phoenix Mercury","Dallas Wings",2017-05-14,-8.5,-110,-8,-107,165.5,161,101
+"19","Indiana Fever","Seattle Storm",2017-05-14,3.5,-110,5.5,-106,162.5,157.5,-109
+"20","Seattle Storm","Indiana Fever",2017-05-14,-3.5,-110,-5.5,-106,162.5,157.5,-105
+"21","Chicago Sky","Minnesota Lynx",2017-05-14,15,-110,16.5,-110,161,157.5,-109
+"22","Minnesota Lynx","Chicago Sky",2017-05-14,-15,-110,-16.5,-102,161,157.5,-105
+"23","Indiana Fever","Phoenix Mercury",2017-05-17,5,-110,3,-104,159,153.5,-107
+"24","Phoenix Mercury","Indiana Fever",2017-05-17,-5,-110,-3,-108,159,153.5,-107
+"25","Minnesota Lynx","New York Liberty",2017-05-18,-4.5,-110,-5,-108,153.5,160.5,-106
+"26","New York Liberty","Minnesota Lynx",2017-05-18,4.5,-110,5,-104,153.5,160.5,-108
+"27","Phoenix Mercury","San Antonio Stars",2017-05-19,-5,-110,-10,-102,151.5,151.5,-109
+"28","San Antonio Stars","Phoenix Mercury",2017-05-19,5,-110,10,-110,151.5,151.5,-105
+"29","Chicago Sky","Atlanta Dream",2017-05-19,1.5,-110,1.5,-105,158.5,154.5,-106
+"30","Atlanta Dream","Chicago Sky",2017-05-19,-1.5,-110,-1.5,-107,158.5,154.5,-108
+"31","Washington Mystics","L.A. Sparks",2017-05-19,3.5,-110,5,-109,156.5,164,-107
+"32","L.A. Sparks","Washington Mystics",2017-05-19,-3.5,-110,-5,-103,156.5,164,-107
+"33","Connecticut Sun","Indiana Fever",2017-05-20,3.5,-110,6.5,-104,158,161,-108
+"34","Indiana Fever","Connecticut Sun",2017-05-20,-3.5,-110,-6.5,-108,158,161,-106
+"35","Minnesota Lynx","Dallas Wings",2017-05-20,-9.5,-110,-10.5,-105,162,158.5,-106
+"36","Dallas Wings","Minnesota Lynx",2017-05-20,9.5,-110,10.5,-107,162,158.5,-108
+"37","Chicago Sky","Atlanta Dream",2017-05-21,7.5,-110,6,-107,162,164.5,-105
+"38","Atlanta Dream","Chicago Sky",2017-05-21,-7.5,-110,-6,-105,162,164.5,-109
+"39","Washington Mystics","Seattle Storm",2017-05-21,3,-115,2,-108,161.5,168.5,-106
+"40","Seattle Storm","Washington Mystics",2017-05-21,-3,-105,-2,-104,161.5,168.5,-108
+"41","Connecticut Sun","Minnesota Lynx",2017-05-23,13,-110,12,-101,159.5,163.5,-105
+"42","Minnesota Lynx","Connecticut Sun",2017-05-23,-13,-110,-12,-111,159.5,163.5,-109
+"43","New York Liberty","Phoenix Mercury",2017-05-23,1.5,-110,-1,-104,152,149.5,-109
+"44","Phoenix Mercury","New York Liberty",2017-05-23,-1.5,-110,1,-108,152,149.5,-105
+"45","Washington Mystics","Chicago Sky",2017-05-24,-2.5,-110,-5.5,-110,164,163.5,-107
+"46","Chicago Sky","Washington Mystics",2017-05-24,2.5,-110,5.5,-102,164,163.5,-107
+"47","L.A. Sparks","Indiana Fever",2017-05-24,-4,-115,-6.5,-104,160,158,-109
+"48","Indiana Fever","L.A. Sparks",2017-05-24,4,-105,6.5,-108,160,158,-105
+"49","Dallas Wings","San Antonio Stars",2017-05-25,-4,-115,-1,-110,157.5,160,-109
+"50","San Antonio Stars","Dallas Wings",2017-05-25,4,-105,1,-102,157.5,160,-105
+"51","Minnesota Lynx","Connecticut Sun",2017-05-26,-7.5,-110,-6,-106,161,158.5,-109
+"52","Connecticut Sun","Minnesota Lynx",2017-05-26,7.5,-110,6,-106,161,158.5,-105
+"53","Chicago Sky","Washington Mystics",2017-05-26,9,-110,8.5,-104,162,162,-119
+"54","Washington Mystics","Chicago Sky",2017-05-26,-9,-110,-8.5,-108,162,162,104
+"55","New York Liberty","Seattle Storm",2017-05-26,3,-110,5,-102,156,154.5,-106
+"56","Seattle Storm","New York Liberty",2017-05-26,-3,-110,-5,-110,156,154.5,-108
+"57","L.A. Sparks","Atlanta Dream",2017-05-27,-7,-110,-6.5,-107,164.5,163.5,-107
+"58","Atlanta Dream","L.A. Sparks",2017-05-27,7,-110,6.5,-105,164.5,163.5,-107
+"59","Dallas Wings","Phoenix Mercury",2017-05-27,6.5,-110,6.5,-101,157.5,156.5,-109
+"60","Phoenix Mercury","Dallas Wings",2017-05-27,-6.5,-110,-6.5,-111,157.5,156.5,-105
+"61","Connecticut Sun","Chicago Sky",2017-05-28,5,-110,2.5,-105,157.5,162,-105
+"62","Chicago Sky","Connecticut Sun",2017-05-28,-5,-110,-2.5,-107,157.5,162,-109
+"63","Indiana Fever","Seattle Storm",2017-05-28,5.5,-110,6,-101,163.5,163.5,-107
+"64","Seattle Storm","Indiana Fever",2017-05-28,-5.5,-110,-6,-111,163.5,163.5,-107
+"65","San Antonio Stars","Minnesota Lynx",2017-05-28,12.5,-110,14,-104,156.5,159,-107
+"66","Minnesota Lynx","San Antonio Stars",2017-05-28,-12.5,-110,-14,-108,156.5,159,-107
+"67","L.A. Sparks","New York Liberty",2017-05-30,-3.5,-110,-3,-106,156,153.5,-102
+"68","New York Liberty","L.A. Sparks",2017-05-30,3.5,-110,3,-106,156,153.5,-112
+"69","Indiana Fever","Dallas Wings",2017-05-30,2,-110,4.5,-106,167,164,-107
+"70","Dallas Wings","Indiana Fever",2017-05-30,-2,-110,-4.5,-106,167,164,-107
+"71","Connecticut Sun","Washington Mystics",2017-05-31,6.5,-110,7.5,-111,163,162,-107
+"72","Washington Mystics","Connecticut Sun",2017-05-31,-6.5,-110,-7.5,-101,163,162,-107
+"73","San Antonio Stars","Atlanta Dream",2017-05-31,7,-110,7.5,-106,156,158.5,-107
+"74","Atlanta Dream","San Antonio Stars",2017-05-31,-7,-110,-7.5,-106,156,158.5,-107
+"75","Phoenix Mercury","Chicago Sky",2017-06-01,-4.5,-110,-5,-103,160,160.5,-115
+"76","Chicago Sky","Phoenix Mercury",2017-06-01,4.5,-110,5,-109,160,160.5,100
+"77","Dallas Wings","New York Liberty",2017-06-02,2.5,-110,3,104,161,157,-104
+"78","New York Liberty","Dallas Wings",2017-06-02,-2.5,-110,-3,-117,161,157,-110
+"79","Dallas Wings","Indiana Fever",2017-06-03,3,-110,4,-100,160.5,164,-107
+"80","Indiana Fever","Dallas Wings",2017-06-03,-3,-110,-4,-112,160.5,164,-107
+"81","Connecticut Sun","San Antonio Stars",2017-06-03,-1.5,-110,-5,-108,158,156.5,-115
+"82","San Antonio Stars","Connecticut Sun",2017-06-03,1.5,-110,5,-104,158,156.5,100
+"83","Minnesota Lynx","Seattle Storm",2017-06-03,-3,-110,-3,-106,158,161.5,-107
+"84","Seattle Storm","Minnesota Lynx",2017-06-03,3,-110,3,-106,158,161.5,-107
+"85","Phoenix Mercury","New York Liberty",2017-06-04,0,-110,-4.5,105,160,159,-108
+"86","New York Liberty","Phoenix Mercury",2017-06-04,0,-110,4.5,-118,160,159,-106
+"87","Atlanta Dream","Washington Mystics",2017-06-04,6,-110,5.5,-110,156,162.5,101
+"88","Washington Mystics","Atlanta Dream",2017-06-04,-6,-110,-5.5,-102,156,162.5,-118
+"89","Washington Mystics","Dallas Wings",2017-06-06,0,-110,-3.5,-106,162,166.5,-108
+"90","Dallas Wings","Washington Mystics",2017-06-06,0,-110,3.5,-106,162,166.5,-108
+"91","Seattle Storm","San Antonio Stars",2017-06-06,-7,-110,-8,-106,158.5,158,101
+"92","San Antonio Stars","Seattle Storm",2017-06-06,7,-110,8,-106,158.5,158,-118
+"93","Chicago Sky","L.A. Sparks",2017-06-06,13,-110,13,-102,164.5,169,109
+"94","L.A. Sparks","Chicago Sky",2017-06-06,-13,-110,-13,-110,164.5,169,-127
+"95","Atlanta Dream","New York Liberty",2017-06-07,3.5,-110,4.5,-106,158,157.5,-104
+"96","New York Liberty","Atlanta Dream",2017-06-07,-3.5,-110,-4.5,-106,158,157.5,-112
+"97","Phoenix Mercury","Indiana Fever",2017-06-07,-1,-110,-4.5,-105,162,162.5,-125
+"98","Indiana Fever","Phoenix Mercury",2017-06-07,1,-110,4.5,-107,162,162.5,107
+"99","Minnesota Lynx","Washington Mystics",2017-06-09,-4.5,-110,-7.5,-115,160.5,157.5,-108
+"100","Washington Mystics","Minnesota Lynx",2017-06-09,4.5,-110,7.5,102,160.5,157.5,-108
+"101","Seattle Storm","Indiana Fever",2017-06-09,-1.5,-110,-6,-105,162.5,162.5,-108
+"102","Indiana Fever","Seattle Storm",2017-06-09,1.5,-110,6,-107,162.5,162.5,-108
+"103","L.A. Sparks","Dallas Wings",2017-06-09,-7,-110,-7.5,-108,168,166.5,-108
+"104","Dallas Wings","L.A. Sparks",2017-06-09,7,-110,7.5,-104,168,166.5,-108
+"105","Atlanta Dream","Connecticut Sun",2017-06-10,5,-110,3.5,-108,158,158.5,-125
+"106","Connecticut Sun","Atlanta Dream",2017-06-10,-5,-110,-3.5,-104,158,158.5,107
+"107","Chicago Sky","San Antonio Stars",2017-06-10,-1.5,-110,2.5,-106,161,161,-108
+"108","San Antonio Stars","Chicago Sky",2017-06-10,1.5,-110,-2.5,-106,161,161,-108
+"109","L.A. Sparks","Phoenix Mercury",2017-06-10,2,-110,1.5,-105,161,161,-105
+"110","Phoenix Mercury","L.A. Sparks",2017-06-10,-2,-110,-1.5,-107,161,161,-111
+"111","Seattle Storm","New York Liberty",2017-06-11,-2.5,-110,3,-112,159.5,159.5,-108
+"112","New York Liberty","Seattle Storm",2017-06-11,2.5,-110,-3,-100,159.5,159.5,-108
+"113","Indiana Fever","Washington Mystics",2017-06-11,4,-110,8,-106,161,164.5,-108
+"114","Washington Mystics","Indiana Fever",2017-06-11,-4,-110,-8,-106,161,164.5,-108
+"115","Minnesota Lynx","Dallas Wings",2017-06-11,-11,-110,-10,-106,167.5,171.5,-108
+"116","Dallas Wings","Minnesota Lynx",2017-06-11,11,-110,10,-106,167.5,171.5,-108
+"117","Atlanta Dream","Seattle Storm",2017-06-13,8,-110,9,-108,158,164,-110
+"118","Seattle Storm","Atlanta Dream",2017-06-13,-8,-110,-9,-104,158,164,-106
+"119","Dallas Wings","L.A. Sparks",2017-06-13,12,-110,11.5,-112,170,171,-110
+"120","L.A. Sparks","Dallas Wings",2017-06-13,-12,-110,-11.5,100,170,171,-106
+"121","New York Liberty","Connecticut Sun",2017-06-14,1.5,-110,2,-106,161.5,161.5,-114
+"122","Connecticut Sun","New York Liberty",2017-06-14,-1.5,-110,-2,-106,161.5,161.5,-102
+"123","Atlanta Dream","Indiana Fever",2017-06-15,2.5,-110,4,-110,156,165.5,-102
+"124","Indiana Fever","Atlanta Dream",2017-06-15,-2.5,-110,-4,-102,156,165.5,-114
+"125","San Antonio Stars","L.A. Sparks",2017-06-15,15,-110,14,-105,164,162,-113
+"126","L.A. Sparks","San Antonio Stars",2017-06-15,-15,-110,-14,-107,164,162,-103
+"127","New York Liberty","Dallas Wings",2017-06-16,0,-110,-1,-102,175,171.5,-130
+"128","Dallas Wings","New York Liberty",2017-06-16,0,-110,1,-110,175,171.5,111
+"129","Chicago Sky","Phoenix Mercury",2017-06-16,11,-110,9.5,-101,163,164,-108
+"130","Phoenix Mercury","Chicago Sky",2017-06-16,-11,-110,-9.5,-111,163,164,-108
+"131","Connecticut Sun","Minnesota Lynx",2017-06-17,10.5,-110,9.5,-106,162.5,162,-133
+"132","Minnesota Lynx","Connecticut Sun",2017-06-17,-10.5,-110,-9.5,-106,162.5,162,114
+"133","Dallas Wings","Washington Mystics",2017-06-18,7.5,-110,8,102,174,175,-108
+"134","Washington Mystics","Dallas Wings",2017-06-18,-7.5,-110,-8,-115,174,175,-108
+"135","Phoenix Mercury","L.A. Sparks",2017-06-18,5.5,-110,7.5,-111,168,164,-125
+"136","L.A. Sparks","Phoenix Mercury",2017-06-18,-5.5,-110,-7.5,-101,168,164,107
+"137","Indiana Fever","Chicago Sky",2017-06-18,2,-110,NA,-110,163,163,-117
+"138","Chicago Sky","Indiana Fever",2017-06-18,-2,-110,NA,-110,163,163,100
+"139","San Antonio Stars","Seattle Storm",2017-06-18,9.5,-110,10,-106,161,161,-112
+"140","Seattle Storm","San Antonio Stars",2017-06-18,-9.5,-110,-10,-106,161,161,-104
+"141","San Antonio Stars","Dallas Wings",2017-06-21,5,-110,7,-106,165,164.5,-118
+"142","Dallas Wings","San Antonio Stars",2017-06-21,-5,-110,-7,-106,165,164.5,101
+"143","Connecticut Sun","New York Liberty",2017-06-23,2,-110,4.5,-110,166.5,162.5,-114
+"144","New York Liberty","Connecticut Sun",2017-06-23,-2,-110,-4.5,-102,166.5,162.5,-102
+"145","Chicago Sky","Atlanta Dream",2017-06-23,5,-110,3,102,164,163,-107
+"146","Atlanta Dream","Chicago Sky",2017-06-23,-5,-110,-3,-115,164,163,-109
+"147","Washington Mystics","Minnesota Lynx",2017-06-23,8.5,-110,10,-104,187,166.5,-103
+"148","Minnesota Lynx","Washington Mystics",2017-06-23,-8.5,-110,-10,-108,187,166.5,-113
+"149","Dallas Wings","San Antonio Stars",2017-06-23,-2,-110,-2.5,-106,165,164,-103
+"150","San Antonio Stars","Dallas Wings",2017-06-23,2,-110,2.5,-106,165,164,-113
+"151","Phoenix Mercury","Seattle Storm",2017-06-23,5,-110,5,-103,161,160.5,-119
+"152","Seattle Storm","Phoenix Mercury",2017-06-23,-5,-110,-5,-109,161,160.5,102
+"153","L.A. Sparks","Indiana Fever",2017-06-24,-6.5,-110,-6,-105,165,166,-107
+"154","Indiana Fever","L.A. Sparks",2017-06-24,6.5,-110,6,-107,165,166,-109
+"155","Connecticut Sun","Dallas Wings",2017-06-25,-3,-110,-5,-107,174,174.5,-101
+"156","Dallas Wings","Connecticut Sun",2017-06-25,3,-110,5,-105,174,174.5,-116
+"157","Washington Mystics","Chicago Sky",2017-06-25,-5.5,-110,-5.5,101,167,173,-108
+"158","Chicago Sky","Washington Mystics",2017-06-25,5.5,-110,5.5,-114,167,173,-108
+"159","San Antonio Stars","Minnesota Lynx",2017-06-25,16,-110,18.5,-104,159,155.5,-106
+"160","Minnesota Lynx","San Antonio Stars",2017-06-25,-16,-110,-18.5,-108,159,155.5,-110
+"161","Seattle Storm","Washington Mystics",2017-06-27,4,-110,5,101,165,166,-110
+"162","Washington Mystics","Seattle Storm",2017-06-27,-4,-110,-5,-114,165,166,-106
+"163","L.A. Sparks","Connecticut Sun",2017-06-27,1,-110,-2.5,-106,171,169,-111
+"164","Connecticut Sun","L.A. Sparks",2017-06-27,-1,-110,2.5,-106,171,169,-105
+"165","Indiana Fever","Chicago Sky",2017-06-28,-1.5,-110,-2.5,101,164,166,-102
+"166","Chicago Sky","Indiana Fever",2017-06-28,1.5,-110,2.5,-114,164,166,-114
+"167","New York Liberty","Washington Mystics",2017-06-29,4.5,-110,7,-106,168,169.5,-125
+"168","Washington Mystics","New York Liberty",2017-06-29,-4.5,-110,-7,-106,168,169.5,107
+"169","Seattle Storm","Connecticut Sun",2017-06-29,4,-110,6.5,-106,170,167.5,-108
+"170","Connecticut Sun","Seattle Storm",2017-06-29,-4,-110,-6.5,-106,170,167.5,-108
+"171","L.A. Sparks","Atlanta Dream",2017-06-30,-8,-110,-7.5,-112,159,158,-109
+"172","Atlanta Dream","L.A. Sparks",2017-06-30,8,-110,7.5,-100,159,158,-107
+"173","Chicago Sky","San Antonio Stars",2017-06-30,-1,-110,-2.5,-100,154,157.5,-120
+"174","San Antonio Stars","Chicago Sky",2017-06-30,1,-110,2.5,-112,154,157.5,103
+"175","Minnesota Lynx","Phoenix Mercury",2017-06-30,-6,-110,-7,-112,168,163,-117
+"176","Phoenix Mercury","Minnesota Lynx",2017-06-30,6,-110,7,100,168,163,100
+"177","Connecticut Sun","Indiana Fever",2017-07-01,-2,-110,-3.5,-110,171,166.5,-102
+"178","Indiana Fever","Connecticut Sun",2017-07-01,2,-110,3.5,-102,171,166.5,-114
+"179","Seattle Storm","Dallas Wings",2017-07-01,1,-110,3.5,101,172,172.5,103
+"180","Dallas Wings","Seattle Storm",2017-07-01,-1,-110,-3.5,-113,172,172.5,-120
+"181","Washington Mystics","L.A. Sparks",2017-07-02,5.5,105,6.5,-113,162,167.5,-101
+"182","L.A. Sparks","Washington Mystics",2017-07-02,-5.5,-125,-6.5,101,162,167.5,-116
+"183","New York Liberty","Atlanta Dream",2017-07-02,-2,-110,-4.5,-105,156.5,155,-118
+"184","Atlanta Dream","New York Liberty",2017-07-02,2,-110,4.5,-107,156.5,155,101
+"185","Atlanta Dream","Dallas Wings",2017-07-05,5.5,-110,4.5,-112,163,164,-103
+"186","Dallas Wings","Atlanta Dream",2017-07-05,-5.5,-110,-4.5,-100,163,164,-113
+"187","Connecticut Sun","San Antonio Stars",2017-07-05,-8,-110,-8,-106,164,163,-110
+"188","San Antonio Stars","Connecticut Sun",2017-07-05,8,-110,8,-106,164,163,-106
+"189","Washington Mystics","Phoenix Mercury",2017-07-05,0,-110,1,-106,163,163,-117
+"190","Phoenix Mercury","Washington Mystics",2017-07-05,0,-110,-1,-106,163,163,100
+"191","L.A. Sparks","Minnesota Lynx",2017-07-06,5.5,-110,6.5,-112,165,166,-125
+"192","Minnesota Lynx","L.A. Sparks",2017-07-06,-5.5,-110,-6.5,-100,165,166,107
+"193","New York Liberty","Seattle Storm",2017-07-06,2,-110,4,-106,161,161,-118
+"194","Seattle Storm","New York Liberty",2017-07-06,-2,-110,-4,-106,161,161,101
+"195","Indiana Fever","Atlanta Dream",2017-07-07,2,-110,-1.5,-112,162,159.5,-123
+"196","Atlanta Dream","Indiana Fever",2017-07-07,-2,-110,1.5,-100,162,159.5,105
+"197","Phoenix Mercury","San Antonio Stars",2017-07-07,-8,-110,-11,-102,156,155,-106
+"198","San Antonio Stars","Phoenix Mercury",2017-07-07,8,-110,11,-110,156,155,-110
+"199","Washington Mystics","Connecticut Sun",2017-07-08,3.5,-110,3,-109,164,168,-102
+"200","Connecticut Sun","Washington Mystics",2017-07-08,-3.5,-110,-3,-103,164,168,-114
+"201","Minnesota Lynx","Chicago Sky",2017-07-08,-15,-110,-14,-102,166,166.5,-110
+"202","Chicago Sky","Minnesota Lynx",2017-07-08,15,-110,14,-110,166,166.5,-106
+"203","L.A. Sparks","Seattle Storm",2017-07-08,-3.5,-110,-5.5,-103,161,162,-113
+"204","Seattle Storm","L.A. Sparks",2017-07-08,3.5,-110,5.5,-109,161,162,-103
+"205","Dallas Wings","Atlanta Dream",2017-07-09,0,-110,3,-106,165,167,-108
+"206","Atlanta Dream","Dallas Wings",2017-07-09,0,-110,-3,-106,165,167,-108
+"207","New York Liberty","Phoenix Mercury",2017-07-09,5,-110,4.5,101,160,160,-114
+"208","Phoenix Mercury","New York Liberty",2017-07-09,-5,-110,-4.5,-113,160,160,-102
+"209","San Antonio Stars","Indiana Fever",2017-07-12,9.5,-110,8,-102,156,156,-109
+"210","Indiana Fever","San Antonio Stars",2017-07-12,-9.5,-110,-8,-110,156,156,-107
+"211","Dallas Wings","Chicago Sky",2017-07-12,-1,-110,-3,-115,169,172.5,-105
+"212","Chicago Sky","Dallas Wings",2017-07-12,1,-110,3,102,169,172.5,-111
+"213","Connecticut Sun","Seattle Storm",2017-07-12,-1,-110,-3.5,-103,169,168.5,-101
+"214","Seattle Storm","Connecticut Sun",2017-07-12,1,-110,3.5,-109,169,168.5,-116
+"215","Atlanta Dream","Phoenix Mercury",2017-07-12,7,-110,7,-103,161,164,-110
+"216","Phoenix Mercury","Atlanta Dream",2017-07-12,-7,-110,-7,-109,161,164,-106
+"217","Connecticut Sun","L.A. Sparks",2017-07-13,6.5,-110,6.5,-106,166,167,-108
+"218","L.A. Sparks","Connecticut Sun",2017-07-13,-6.5,-110,-6.5,-106,166,167,-108
+"219","Washington Mystics","Indiana Fever",2017-07-14,-6,-110,-7,-115,161,164.5,-104
+"220","Indiana Fever","Washington Mystics",2017-07-14,6,-110,7,102,161,164.5,-112
+"221","Chicago Sky","New York Liberty",2017-07-14,8,-110,7,-106,161.5,161.5,-108
+"222","New York Liberty","Chicago Sky",2017-07-14,-8,-110,-7,-106,161.5,161.5,-108
+"223","Minnesota Lynx","Phoenix Mercury",2017-07-14,-6,-110,-6.5,-106,166,166.5,-112
+"224","Phoenix Mercury","Minnesota Lynx",2017-07-14,6,-110,6.5,-106,166,166.5,-104
+"225","Atlanta Dream","Seattle Storm",2017-07-15,3,-110,6.5,-103,162,160.5,-117
+"226","Seattle Storm","Atlanta Dream",2017-07-15,-3,-110,-6.5,-109,162,160.5,100
+"227","San Antonio Stars","Connecticut Sun",2017-07-16,14,-110,14.5,-102,160,160,107
+"228","Connecticut Sun","San Antonio Stars",2017-07-16,-14,-110,-14.5,-110,160,160,-125
+"229","Washington Mystics","New York Liberty",2017-07-16,-3,-110,6,-102,159,152,-108
+"230","New York Liberty","Washington Mystics",2017-07-16,3,-110,-6,-110,159,152,-108
+"231","Chicago Sky","Dallas Wings",2017-07-16,6,-110,5,-106,173,170.5,-108
+"232","Dallas Wings","Chicago Sky",2017-07-16,-6,-110,-5,-106,173,170.5,-108
+"233","Phoenix Mercury","Minnesota Lynx",2017-07-16,15,-110,15,-106,165,163.5,-112
+"234","Minnesota Lynx","Phoenix Mercury",2017-07-16,-15,-110,-15,-106,165,163.5,-104
+"235","Indiana Fever","L.A. Sparks",2017-07-17,16,-110,14,-105,157,158,-113
+"236","L.A. Sparks","Indiana Fever",2017-07-17,-16,-110,-14,-107,157,158,-103
+"237","San Antonio Stars","Atlanta Dream",2017-07-18,9,-110,9.5,-107,158,153,-108
+"238","Atlanta Dream","San Antonio Stars",2017-07-18,-9,-110,-9.5,-105,158,153,-108
+"239","Chicago Sky","Seattle Storm",2017-07-18,7,-110,6,-106,166,165,-108
+"240","Seattle Storm","Chicago Sky",2017-07-18,-7,-110,-6,-106,166,165,-108
+"241","Connecticut Sun","New York Liberty",2017-07-19,-2.5,-110,-2.5,-114,162,167,-112
+"242","New York Liberty","Connecticut Sun",2017-07-19,2.5,-110,2.5,101,162,167,-104
+"243","Atlanta Dream","Washington Mystics",2017-07-19,4,-110,3,101,154,157,-108
+"244","Washington Mystics","Atlanta Dream",2017-07-19,-4,-110,-3,-114,154,157,-108
+"245","Dallas Wings","Minnesota Lynx",2017-07-19,15,-110,14,-112,171,169,-109
+"246","Minnesota Lynx","Dallas Wings",2017-07-19,-15,-110,-14,100,171,169,-107
+"247","Indiana Fever","Phoenix Mercury",2017-07-19,5.5,-110,6.5,-112,156.5,156,-110
+"248","Phoenix Mercury","Indiana Fever",2017-07-19,-5.5,-110,-6.5,-100,156.5,156,-106
+"249","Chicago Sky","L.A. Sparks",2017-07-20,12,-110,12,-106,163,163.5,-108
+"250","L.A. Sparks","Chicago Sky",2017-07-20,-12,-110,-12,-106,163,163.5,-108
+"251","Indiana Fever","San Antonio Stars",2017-07-20,-1.5,-110,-5,105,153.5,152,-130
+"252","San Antonio Stars","Indiana Fever",2017-07-20,1.5,-110,5,-118,153.5,152,111
+"253","East All Stars","West All Stars",2017-07-22,NA,-110,NA,-110,228,230,-105
+"254","West All Stars","East All Stars",2017-07-22,NA,-110,NA,-110,228,230,-111
+"255","Washington Mystics","San Antonio Stars",2017-07-25,-4.5,-110,-7,-108,150.5,156.5,-109
+"256","San Antonio Stars","Washington Mystics",2017-07-25,4.5,-110,7,-104,150.5,156.5,-107
+"257","Chicago Sky","Connecticut Sun",2017-07-25,7,-110,7,-109,172.5,174,-113
+"258","Connecticut Sun","Chicago Sky",2017-07-25,-7,-110,-7,-103,172.5,174,-103
+"259","Phoenix Mercury","Atlanta Dream",2017-07-25,4,-110,6,-110,164,163,-110
+"260","Atlanta Dream","Phoenix Mercury",2017-07-25,-4,-110,-6,-102,164,163,-106
+"261","Indiana Fever","Dallas Wings",2017-07-25,6.5,-110,7,-110,166,168,-114
+"262","Dallas Wings","Indiana Fever",2017-07-25,-6.5,-110,-7,-102,166,168,-102
+"263","New York Liberty","Minnesota Lynx",2017-07-25,12.5,-110,11.5,-107,160,164.5,-112
+"264","Minnesota Lynx","New York Liberty",2017-07-25,-12.5,-110,-11.5,-105,160,164.5,-104
+"265","Seattle Storm","L.A. Sparks",2017-07-25,11,-110,9,-102,162.5,160.5,-109
+"266","L.A. Sparks","Seattle Storm",2017-07-25,-11,-110,-9,-110,162.5,160.5,-107
+"267","New York Liberty","Indiana Fever",2017-07-28,-5,-110,-6,-107,154,156.5,-120
+"268","Indiana Fever","New York Liberty",2017-07-28,5,-110,6,-105,154,156.5,103
+"269","Minnesota Lynx","Atlanta Dream",2017-07-28,-8,-110,-7.5,-107,167,166.5,-108
+"270","Atlanta Dream","Minnesota Lynx",2017-07-28,8,-110,7.5,-105,167,166.5,-108
+"271","L.A. Sparks","San Antonio Stars",2017-07-28,-11.5,-110,-11,-115,154,154.5,-123
+"272","San Antonio Stars","L.A. Sparks",2017-07-28,11.5,-110,11,102,154,154.5,105
+"273","Phoenix Mercury","Chicago Sky",2017-07-28,5.5,-110,5,102,166,167,-108
+"274","Chicago Sky","Phoenix Mercury",2017-07-28,-5.5,-110,-5,-115,166,167,-108
+"275","Dallas Wings","Seattle Storm",2017-07-28,5.5,-110,6,-106,170,171,-126
+"276","Seattle Storm","Dallas Wings",2017-07-28,-5.5,-110,-6,-106,170,171,108
+"277","Connecticut Sun","Washington Mystics",2017-07-28,0,-110,2.5,-105,162,168,-128
+"278","Washington Mystics","Connecticut Sun",2017-07-28,0,-110,-2.5,-107,162,168,110
+"279","Indiana Fever","Connecticut Sun",2017-07-30,12,-110,13,106,166.5,162.5,-113
+"280","Connecticut Sun","Indiana Fever",2017-07-30,-12,-110,-13,-119,166.5,162.5,-103
+"281","Washington Mystics","Atlanta Dream",2017-07-30,-1,-110,-2,-109,164,167,-110
+"282","Atlanta Dream","Washington Mystics",2017-07-30,1,-110,2,-103,164,167,-106
+"283","Dallas Wings","L.A. Sparks",2017-07-30,12,-110,12,-106,170,171,-118
+"284","L.A. Sparks","Dallas Wings",2017-07-30,-12,-110,-12,-106,170,171,101
+"285","San Antonio Stars","Phoenix Mercury",2017-07-30,7.5,-110,8.5,-107,157,156.5,106
+"286","Phoenix Mercury","San Antonio Stars",2017-07-30,-7.5,-110,-8.5,-105,157,156.5,-124
+"287","New York Liberty","Chicago Sky",2017-07-30,-2,-110,-3.5,-110,163.5,164.5,-123
+"288","Chicago Sky","New York Liberty",2017-07-30,2,-110,3.5,-102,163.5,164.5,105
+"289","Seattle Storm","Minnesota Lynx",2017-07-30,12,-110,11,-106,165,165.5,-108
+"290","Minnesota Lynx","Seattle Storm",2017-07-30,-12,-110,-11,-106,165,165.5,-108
+"291","New York Liberty","San Antonio Stars",2017-08-01,-8.5,-110,-8.5,-134,154,154.5,100
+"292","San Antonio Stars","New York Liberty",2017-08-01,8.5,-110,8.5,119,154,154.5,-117
+"293","Atlanta Dream","Minnesota Lynx",2017-08-03,14,-110,11.5,-108,169,164.5,-123
+"294","Minnesota Lynx","Atlanta Dream",2017-08-03,-14,-110,-11.5,-104,169,164.5,105
+"295","Chicago Sky","Indiana Fever",2017-08-04,-1,-110,1.5,-102,161,165,-110
+"296","Indiana Fever","Chicago Sky",2017-08-04,1,-110,-1.5,-110,161,165,-106
+"297","Phoenix Mercury","Connecticut Sun",2017-08-04,8.5,-110,8,-106,166.5,167.5,-109
+"298","Connecticut Sun","Phoenix Mercury",2017-08-04,-8.5,-110,-8,-106,166.5,167.5,-107
+"299","Seattle Storm","Dallas Wings",2017-08-04,-1.5,-110,-1,-102,174.5,174.5,-110
+"300","Dallas Wings","Seattle Storm",2017-08-04,1.5,-110,1,-110,174.5,174.5,-106
+"301","Washington Mystics","San Antonio Stars",2017-08-04,-4.5,-110,-4.5,-114,154,153.5,-121
+"302","San Antonio Stars","Washington Mystics",2017-08-04,4.5,-110,4.5,101,154,153.5,104
+"303","New York Liberty","L.A. Sparks",2017-08-04,8,-110,9,-115,159.5,158,-112
+"304","L.A. Sparks","New York Liberty",2017-08-04,-8,-110,-9,102,159.5,158,-104
+"305","Atlanta Dream","Chicago Sky",2017-08-05,-1.5,-110,-1.5,-110,168.5,165.5,-116
+"306","Chicago Sky","Atlanta Dream",2017-08-05,1.5,-110,1.5,-102,168.5,165.5,-101
+"307","Seattle Storm","San Antonio Stars",2017-08-05,-6,-110,-7,-116,159.5,156.5,-104
+"308","San Antonio Stars","Seattle Storm",2017-08-05,6,-110,7,103,159.5,156.5,-112
+"309","Phoenix Mercury","Washington Mystics",2017-08-06,3,-105,3.5,-106,158.5,157,-109
+"310","Washington Mystics","Phoenix Mercury",2017-08-06,-3,-115,-3.5,-106,158.5,157,-107
+"311","L.A. Sparks","Dallas Wings",2017-08-06,-7.5,100,-6.5,-117,170.5,171.5,-101
+"312","Dallas Wings","L.A. Sparks",2017-08-06,7.5,-120,6.5,104,170.5,171.5,-115
+"313","Minnesota Lynx","Indiana Fever",2017-08-06,-12,-115,-12.5,-116,160,158,-117
+"314","Indiana Fever","Minnesota Lynx",2017-08-06,12,-105,12.5,103,160,158,100
+"315","Indiana Fever","New York Liberty",2017-08-08,9,-110,9,-112,158,159,-108
+"316","New York Liberty","Indiana Fever",2017-08-08,-9,-110,-9,-100,158,159,-108
+"317","Seattle Storm","Connecticut Sun",2017-08-08,7,-110,6,-119,170,169,-108
+"318","Connecticut Sun","Seattle Storm",2017-08-08,-7,-110,-6,106,170,169,-108
+"319","Minnesota Lynx","Atlanta Dream",2017-08-08,-8,-110,-7,-107,164,164,-108
+"320","Atlanta Dream","Minnesota Lynx",2017-08-08,8,-110,7,-105,164,164,-108
+"321","Phoenix Mercury","Dallas Wings",2017-08-10,3,-110,2.5,-106,172,171.5,-117
+"322","Dallas Wings","Phoenix Mercury",2017-08-10,-3,-110,-2.5,-106,172,171.5,100
+"323","San Antonio Stars","Chicago Sky",2017-08-10,7,-110,6.5,105,160.5,160.5,-117
+"324","Chicago Sky","San Antonio Stars",2017-08-10,-7,-110,-6.5,-118,160.5,160.5,100
+"325","New York Liberty","Atlanta Dream",2017-08-11,0,-110,2.5,-106,161,159.5,-108
+"326","Atlanta Dream","New York Liberty",2017-08-11,0,-110,-2.5,-106,161,159.5,-108
+"327","L.A. Sparks","Minnesota Lynx",2017-08-11,5.5,-110,5.5,-100,158.5,161.5,-108
+"328","Minnesota Lynx","L.A. Sparks",2017-08-11,-5.5,-110,-5.5,-112,158.5,161.5,-108
+"329","Dallas Wings","Connecticut Sun",2017-08-12,9.5,-110,9.5,-112,176.5,178.5,-108
+"330","Connecticut Sun","Dallas Wings",2017-08-12,-9.5,-110,-9.5,-100,176.5,178.5,-108
+"331","Indiana Fever","Washington Mystics",2017-08-12,7,-110,8,105,156.5,155,111
+"332","Washington Mystics","Indiana Fever",2017-08-12,-7,-110,-8,-118,156.5,155,-130
+"333","Atlanta Dream","San Antonio Stars",2017-08-12,-3.5,-110,-3,-110,157,155.5,-102
+"334","San Antonio Stars","Atlanta Dream",2017-08-12,3.5,-110,3,-102,157,155.5,-114
+"335","Seattle Storm","Phoenix Mercury",2017-08-12,2,-110,5.5,-112,165.5,164.5,-108
+"336","Phoenix Mercury","Seattle Storm",2017-08-12,-2,-110,-5.5,100,165.5,164.5,-108
+"337","L.A. Sparks","New York Liberty",2017-08-13,-2,-110,-2.5,-106,157,158,-102
+"338","New York Liberty","L.A. Sparks",2017-08-13,2,-110,2.5,-106,157,158,-114
+"339","Connecticut Sun","Atlanta Dream",2017-08-15,-2,-110,-4.5,-109,165,166.5,-108
+"340","Atlanta Dream","Connecticut Sun",2017-08-15,2,-110,4.5,-103,165,166.5,-108
+"341","L.A. Sparks","Washington Mystics",2017-08-16,-4.5,-110,-6,-102,157.5,158.5,-106
+"342","Washington Mystics","L.A. Sparks",2017-08-16,4.5,-110,6,-110,157.5,158.5,-110
+"343","Minnesota Lynx","Seattle Storm",2017-08-16,-6,-110,-7.5,-106,163.5,163.5,100
+"344","Seattle Storm","Minnesota Lynx",2017-08-16,6,-110,7.5,-106,163.5,163.5,-117
+"345","Phoenix Mercury","Washington Mystics",2017-08-18,-1,-105,-3.5,-111,164,161.5,-107
+"346","Washington Mystics","Phoenix Mercury",2017-08-18,1,-115,3.5,-101,164,161.5,-109
+"347","New York Liberty","Connecticut Sun",2017-08-18,6,-110,6,103,167.5,167,-116
+"348","Connecticut Sun","New York Liberty",2017-08-18,-6,-110,-6,-116,167.5,167,-101
+"349","Indiana Fever","Minnesota Lynx",2017-08-18,15.5,-110,15,-115,159,155,-110
+"350","Minnesota Lynx","Indiana Fever",2017-08-18,-15.5,-110,-15,102,159,155,-106
+"351","L.A. Sparks","Chicago Sky",2017-08-18,-7.5,-110,-7,102,165,167.5,-108
+"352","Chicago Sky","L.A. Sparks",2017-08-18,7.5,-110,7,-115,165,167.5,-108
+"353","San Antonio Stars","Seattle Storm",2017-08-18,10,-105,10,-108,157,154.5,-114
+"354","Seattle Storm","San Antonio Stars",2017-08-18,-10,-115,-10,-104,157,154.5,-102
+"355","Atlanta Dream","Dallas Wings",2017-08-19,4.5,-110,5,-103,173,173.5,-108
+"356","Dallas Wings","Atlanta Dream",2017-08-19,-4.5,-110,-5,-109,173,173.5,-108
+"357","Phoenix Mercury","Connecticut Sun",2017-08-20,3.5,-110,5,-113,171,170,-111
+"358","Connecticut Sun","Phoenix Mercury",2017-08-20,-3.5,-110,-5,101,171,170,-105
+"359","Minnesota Lynx","New York Liberty",2017-08-20,-5,-110,-5,100,156,157,100
+"360","New York Liberty","Minnesota Lynx",2017-08-20,5,-110,5,-112,156,157,-117
+"361","Washington Mystics","Indiana Fever",2017-08-20,-3,-110,-5.5,-116,160,157.5,-117
+"362","Indiana Fever","Washington Mystics",2017-08-20,3,-110,5.5,103,160,157.5,100
+"363","Seattle Storm","Chicago Sky",2017-08-20,0,-110,2,-106,168.5,168,-116
+"364","Chicago Sky","Seattle Storm",2017-08-20,0,-110,-2,-106,168.5,168,-101
+"365","Phoenix Mercury","Minnesota Lynx",2017-08-22,8,-110,7.5,-110,158,160.5,-112
+"366","Minnesota Lynx","Phoenix Mercury",2017-08-22,-8,-110,-7.5,-102,158,160.5,-104
+"367","San Antonio Stars","L.A. Sparks",2017-08-22,15,-110,13.5,-112,155,155.5,-108
+"368","L.A. Sparks","San Antonio Stars",2017-08-22,-15,-110,-13.5,-100,155,155.5,-108
+"369","Dallas Wings","Connecticut Sun",2017-08-23,11.5,-110,11,-107,177.5,180,-106
+"370","Connecticut Sun","Dallas Wings",2017-08-23,-11.5,-110,-11,-105,177.5,180,-110
+"371","Seattle Storm","Atlanta Dream",2017-08-23,-1.5,-110,-4.5,-102,164,163.5,-109
+"372","Atlanta Dream","Seattle Storm",2017-08-23,1.5,-110,4.5,-110,164,163.5,-107
+"373","New York Liberty","Indiana Fever",2017-08-23,-8.5,-110,-8,-132,157,155.5,-114
+"374","Indiana Fever","New York Liberty",2017-08-23,8.5,-110,8,117,157,155.5,-102
+"375","L.A. Sparks","Phoenix Mercury",2017-08-24,-2.5,-115,-6,-115,162.5,161,-108
+"376","Phoenix Mercury","L.A. Sparks",2017-08-24,2.5,-105,6,102,162.5,161,-108
+"377","Chicago Sky","Connecticut Sun",2017-08-25,9.5,-110,10,-106,172.5,174,-125
+"378","Connecticut Sun","Chicago Sky",2017-08-25,-9.5,-110,-10,-106,172.5,174,107
+"379","Minnesota Lynx","San Antonio Stars",2017-08-25,-12,-110,-12.5,-106,153,150.5,-105
+"380","San Antonio Stars","Minnesota Lynx",2017-08-25,12,-110,12.5,-106,153,150.5,-111
+"381","Washington Mystics","New York Liberty",2017-08-25,4,-110,4.5,-112,155.5,157,-120
+"382","New York Liberty","Washington Mystics",2017-08-25,-4,-110,-4.5,100,155.5,157,103
+"383","Indiana Fever","Atlanta Dream",2017-08-26,10,-110,9.5,-106,161.5,158,-108
+"384","Atlanta Dream","Indiana Fever",2017-08-26,-10,-110,-9.5,-106,161.5,158,-108
+"385","Dallas Wings","Washington Mystics",2017-08-26,3.5,-110,5,-106,174,173,-108
+"386","Washington Mystics","Dallas Wings",2017-08-26,-3.5,-110,-5,-106,174,173,-108
+"387","Chicago Sky","New York Liberty",2017-08-27,7.5,-110,7,-109,161.5,161,100
+"388","New York Liberty","Chicago Sky",2017-08-27,-7.5,-110,-7,-103,161.5,161,-117
+"389","Minnesota Lynx","L.A. Sparks",2017-08-27,2,-110,2.5,-109,156,155,-103
+"390","L.A. Sparks","Minnesota Lynx",2017-08-27,-2,-110,-2.5,-103,156,155,-113
+"391","Phoenix Mercury","Seattle Storm",2017-08-27,2.5,-110,5,-104,166.5,164,-126
+"392","Seattle Storm","Phoenix Mercury",2017-08-27,-2.5,-110,-5,-108,166.5,164,108
+"393","Connecticut Sun","Washington Mystics",2017-08-29,-2.5,-110,2,-118,169.5,169,-125
+"394","Washington Mystics","Connecticut Sun",2017-08-29,2.5,-110,-2,105,169.5,169,107
+"395","Minnesota Lynx","Indiana Fever",2017-08-30,-15,-110,-15.5,101,155.5,155,-111
+"396","Indiana Fever","Minnesota Lynx",2017-08-30,15,-110,15.5,-114,155.5,155,-105
+"397","Dallas Wings","Chicago Sky",2017-08-30,2,-110,3,-101,174,178.5,-110
+"398","Chicago Sky","Dallas Wings",2017-08-30,-2,-110,-3,-111,174,178.5,-106
+"399","Seattle Storm","Washington Mystics",2017-09-01,-1.5,-110,2,-101,160.5,160.5,-110
+"400","Washington Mystics","Seattle Storm",2017-09-01,1.5,-110,-2,-111,160.5,160.5,-106
+"401","San Antonio Stars","New York Liberty",2017-09-01,13,-110,13,-107,148.5,150,-108
+"402","New York Liberty","San Antonio Stars",2017-09-01,-13,-110,-13,-105,148.5,150,-108
+"403","Chicago Sky","Minnesota Lynx",2017-09-01,13.5,-110,12.5,-105,164,163.5,-108
+"404","Minnesota Lynx","Chicago Sky",2017-09-01,-13.5,-110,-12.5,-107,164,163.5,-108
+"405","Connecticut Sun","Phoenix Mercury",2017-09-01,1,-115,1,-101,170,170,-105
+"406","Phoenix Mercury","Connecticut Sun",2017-09-01,-1,-105,-1,-111,170,170,-111
+"407","Atlanta Dream","L.A. Sparks",2017-09-01,14,-110,13,-109,158.5,158.5,-103
+"408","L.A. Sparks","Atlanta Dream",2017-09-01,-14,-110,-13,-103,158.5,158.5,-113
+"409","San Antonio Stars","Indiana Fever",2017-09-02,2.5,-110,3.5,107,152.5,150.5,-113
+"410","Indiana Fever","San Antonio Stars",2017-09-02,-2.5,-110,-3.5,-120,152.5,150.5,-103
+"411","New York Liberty","Dallas Wings",2017-09-03,-2,-115,-3.5,-112,168,167.5,-115
+"412","Dallas Wings","New York Liberty",2017-09-03,2,-105,3.5,100,168,167.5,-101
+"413","Washington Mystics","Minnesota Lynx",2017-09-03,11,-110,11,-110,160.5,160,-112
+"414","Minnesota Lynx","Washington Mystics",2017-09-03,-11,-110,-11,-102,160.5,160,-104
+"415","Connecticut Sun","L.A. Sparks",2017-09-03,8,-105,7.5,-102,161,161,-108
+"416","L.A. Sparks","Connecticut Sun",2017-09-03,-8,-115,-7.5,-110,161,161,-108
+"417","Atlanta Dream","Phoenix Mercury",2017-09-03,9,-110,8.5,-108,162,161.5,-108
+"418","Phoenix Mercury","Atlanta Dream",2017-09-03,-9,-110,-8.5,-104,162,161.5,-108
+"419","Seattle Storm","Chicago Sky",2017-09-03,1,-110,1.5,-103,169.5,172,-113
+"420","Chicago Sky","Seattle Storm",2017-09-03,-1,-110,-1.5,-109,169.5,172,-103
+"421","Dallas Wings","Washington Mystics",2017-09-06,4.5,-110,7,-106,172,172,-111
+"422","Washington Mystics","Dallas Wings",2017-09-06,-4.5,-110,-7,-106,172,172,-105
+"423","Seattle Storm","Phoenix Mercury",2017-09-06,4,-110,4.5,-104,160,164,-106
+"424","Phoenix Mercury","Seattle Storm",2017-09-06,-4,-110,-4.5,-108,160,164,-110
+"425","Phoenix Mercury","Connecticut Sun",2017-09-10,4.5,-110,5.5,-102,164.5,166,-107
+"426","Connecticut Sun","Phoenix Mercury",2017-09-10,-4.5,-110,-5.5,-110,164.5,166,-109
+"427","Washington Mystics","New York Liberty",2017-09-10,5,-110,5.5,-102,153,153.5,-107
+"428","New York Liberty","Washington Mystics",2017-09-10,-5,-110,-5.5,-110,153,153.5,-109
+"429","Washington Mystics","Minnesota Lynx",2017-09-12,9.5,-110,10.5,-108,159,161.5,-128
+"430","Minnesota Lynx","Washington Mystics",2017-09-12,-9.5,-110,-10.5,-104,159,161.5,110
+"431","Phoenix Mercury","L.A. Sparks",2017-09-12,9.5,-110,8.5,-101,156.5,155.5,-113
+"432","L.A. Sparks","Phoenix Mercury",2017-09-12,-9.5,-110,-8.5,-111,156.5,155.5,-103
+"433","Washington Mystics","Minnesota Lynx",2017-09-14,10.5,-110,11,-102,165,163,-130
+"434","Minnesota Lynx","Washington Mystics",2017-09-14,-10.5,-110,-11,-110,165,163,111
+"435","Phoenix Mercury","L.A. Sparks",2017-09-14,9,-110,10,-106,153,155,-107
+"436","L.A. Sparks","Phoenix Mercury",2017-09-14,-9,-110,-10,-106,153,155,-109
+"437","Minnesota Lynx","Washington Mystics",2017-09-17,-5,-110,-6.5,-112,165.5,164,-112
+"438","Washington Mystics","Minnesota Lynx",2017-09-17,5,-110,6.5,100,165.5,164,-104
+"439","L.A. Sparks","Phoenix Mercury",2017-09-17,-3.5,-110,-4.5,-106,155.5,156.5,100
+"440","Phoenix Mercury","L.A. Sparks",2017-09-17,3.5,-110,4.5,-106,155.5,156.5,-117
+"441","L.A. Sparks","Minnesota Lynx",2017-09-24,4,-110,5.5,-106,158,157,-110
+"442","Minnesota Lynx","L.A. Sparks",2017-09-24,-4,-110,-5.5,-106,158,157,-106
+"443","L.A. Sparks","Minnesota Lynx",2017-09-26,5.5,-110,7,-106,158,159,-106
+"444","Minnesota Lynx","L.A. Sparks",2017-09-26,-5.5,-110,-7,-106,158,159,-110
+"445","Minnesota Lynx","L.A. Sparks",2017-09-29,3.5,-110,2.5,-104,155.5,154.5,-110
+"446","L.A. Sparks","Minnesota Lynx",2017-09-29,-3.5,-110,-2.5,-108,155.5,154.5,-106

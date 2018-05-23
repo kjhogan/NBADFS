@@ -1,0 +1,445 @@
+"","teams","opp","date","opener.odds","opener.juice","pinn.odds","pinn.juice","opener","totals","totalsjuice"
+"1","Washington Mystics","Connecticut Sun",2015-06-05,-3,-110,-3.5,-105,72,71.5,-105
+"2","Connecticut Sun","Washington Mystics",2015-06-05,3,-110,3.5,-105,72,71.5,-105
+"3","Atlanta Dream","New York Liberty",2015-06-05,-3,-115,-3.5,-102,74.5,73,-120
+"4","New York Liberty","Atlanta Dream",2015-06-05,3,-105,3.5,-108,74.5,73,109
+"5","Tulsa Shock","Minnesota Lynx",2015-06-05,6.5,-110,6,-115,81,81,101
+"6","Minnesota Lynx","Tulsa Shock",2015-06-05,-6.5,-110,-6,104,81,81,-111
+"7","Indiana Fever","Chicago Sky",2015-06-05,3.5,-105,3.5,-103,74,74.5,106
+"8","Chicago Sky","Indiana Fever",2015-06-05,-3.5,-115,-3.5,-107,74,74.5,-117
+"9","San Antonio Stars","Phoenix Mercury",2015-06-05,2.5,-105,2.5,-105,75.5,75,-105
+"10","Phoenix Mercury","San Antonio Stars",2015-06-05,-2.5,-115,-2.5,-105,75.5,75,-105
+"11","New York Liberty","Washington Mystics",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"12","Washington Mystics","New York Liberty",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"13","Minnesota Lynx","Indiana Fever",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"14","Indiana Fever","Minnesota Lynx",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"15","Chicago Sky","Tulsa Shock",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"16","Tulsa Shock","Chicago Sky",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"17","L.A. Sparks","Seattle Storm",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"18","Seattle Storm","L.A. Sparks",2015-06-06,NA,-110,NA,-110,NA,NA,-110
+"19","Connecticut Sun","Atlanta Dream",2015-06-07,NA,-110,NA,-110,NA,NA,-110
+"20","Atlanta Dream","Connecticut Sun",2015-06-07,NA,-110,NA,-110,NA,NA,-110
+"21","Indiana Fever","New York Liberty",2015-06-09,2.5,-110,2.5,100,73,73,-105
+"22","New York Liberty","Indiana Fever",2015-06-09,-2.5,-110,-2.5,-110,73,73,-105
+"23","Seattle Storm","Tulsa Shock",2015-06-09,3.5,-105,3.5,-102,80,81,-107
+"24","Tulsa Shock","Seattle Storm",2015-06-09,-3.5,-115,-3.5,-108,80,81,-103
+"25","Phoenix Mercury","New York Liberty",2015-06-11,-1.5,-105,-0.5,-105,74.5,73.5,-106
+"26","New York Liberty","Phoenix Mercury",2015-06-11,1.5,-115,0.5,-105,74.5,73.5,-104
+"27","Chicago Sky","Connecticut Sun",2015-06-11,-2.5,-105,-2.5,-107,77.5,77.5,-105
+"28","Connecticut Sun","Chicago Sky",2015-06-11,2.5,-115,2.5,-103,77.5,77.5,-105
+"29","San Antonio Stars","Atlanta Dream",2015-06-11,3,-105,3.5,-107,76.5,75,-108
+"30","Atlanta Dream","San Antonio Stars",2015-06-11,-3,-115,-3.5,-103,76.5,75,-102
+"31","Seattle Storm","Minnesota Lynx",2015-06-11,8,-110,7.5,-103,74,73.5,-110
+"32","Minnesota Lynx","Seattle Storm",2015-06-11,-8,-110,-7.5,-107,74,73.5,100
+"33","Phoenix Mercury","Indiana Fever",2015-06-12,2,-110,2,101,75,74.5,-113
+"34","Indiana Fever","Phoenix Mercury",2015-06-12,-2,-110,-2,-111,75,74.5,102
+"35","Atlanta Dream","Washington Mystics",2015-06-12,3,-115,2.5,101,73.5,73,-103
+"36","Washington Mystics","Atlanta Dream",2015-06-12,-3,-105,-2.5,-111,73.5,73,-107
+"37","Chicago Sky","Indiana Fever",2015-06-14,-1,-110,-1,-106,77.5,77.5,-103
+"38","Indiana Fever","Chicago Sky",2015-06-14,1,-110,1,-104,77.5,77.5,-107
+"39","Atlanta Dream","Connecticut Sun",2015-06-14,-1,-110,-1,-101,72,72.5,101
+"40","Connecticut Sun","Atlanta Dream",2015-06-14,1,-110,1,-109,72,72.5,-111
+"41","Minnesota Lynx","Phoenix Mercury",2015-06-14,-4,-110,-4,-113,75.5,75.5,100
+"42","Phoenix Mercury","Minnesota Lynx",2015-06-14,4,-110,4,102,75.5,75.5,-110
+"43","Tulsa Shock","San Antonio Stars",2015-06-14,1,-110,2,-102,77.5,77.5,-102
+"44","San Antonio Stars","Tulsa Shock",2015-06-14,-1,-110,-2,-108,77.5,77.5,-108
+"45","Seattle Storm","L.A. Sparks",2015-06-14,2.5,-110,0.5,101,71,71.5,-104
+"46","L.A. Sparks","Seattle Storm",2015-06-14,-2.5,-110,-0.5,-111,71,71.5,-106
+"47","Washington Mystics","New York Liberty",2015-06-14,2,-110,2,-103,69.5,70,-103
+"48","New York Liberty","Washington Mystics",2015-06-14,-2,-110,-2,-107,69.5,70,-107
+"49","Indiana Fever","Atlanta Dream",2015-06-16,2.5,-110,2.5,101,75,75,-108
+"50","Atlanta Dream","Indiana Fever",2015-06-16,-2.5,-110,-2.5,-111,75,75,-102
+"51","San Antonio Stars","Tulsa Shock",2015-06-16,3.5,-115,3,104,76,75.5,-103
+"52","Tulsa Shock","San Antonio Stars",2015-06-16,-3.5,-105,-3,-115,76,75.5,-107
+"53","Connecticut Sun","Seattle Storm",2015-06-16,1.5,-115,1,-103,70,69.5,-102
+"54","Seattle Storm","Connecticut Sun",2015-06-16,-1.5,-105,-1,-107,70,69.5,-108
+"55","Minnesota Lynx","L.A. Sparks",2015-06-16,-5.5,-110,-7,-108,73,73,-104
+"56","L.A. Sparks","Minnesota Lynx",2015-06-16,5.5,-110,7,-102,73,73,-106
+"57","Tulsa Shock","Washington Mystics",2015-06-19,2,-115,2,-107,72.5,72,-105
+"58","Washington Mystics","Tulsa Shock",2015-06-19,-2,-105,-2,-104,72.5,72,-105
+"59","Indiana Fever","New York Liberty",2015-06-19,2,-115,2,-111,76,76,-110
+"60","New York Liberty","Indiana Fever",2015-06-19,-2,-105,-2,101,76,76,100
+"61","Chicago Sky","Atlanta Dream",2015-06-19,-1,-115,-1.5,-111,79.5,78.5,-109
+"62","Atlanta Dream","Chicago Sky",2015-06-19,1,-105,1.5,101,79.5,78.5,-101
+"63","Minnesota Lynx","San Antonio Stars",2015-06-19,-3.5,-110,-4,-104,74.5,73.5,-110
+"64","San Antonio Stars","Minnesota Lynx",2015-06-19,3.5,-110,4,-106,74.5,73.5,100
+"65","Connecticut Sun","Phoenix Mercury",2015-06-19,2.5,-110,3.5,-105,72.5,71.5,-108
+"66","Phoenix Mercury","Connecticut Sun",2015-06-19,-2.5,-110,-3.5,-105,72.5,71.5,-102
+"67","Washington Mystics","Indiana Fever",2015-06-20,0,-110,-0.5,-117,73.5,73,-108
+"68","Indiana Fever","Washington Mystics",2015-06-20,0,-110,0.5,106,73.5,73,-102
+"69","Chicago Sky","San Antonio Stars",2015-06-20,-2,-115,-2,-104,77,76.5,-104
+"70","San Antonio Stars","Chicago Sky",2015-06-20,2,-105,2,-107,77,76.5,-106
+"71","New York Liberty","Atlanta Dream",2015-06-21,2.5,-110,2.5,-102,74,73.5,-121
+"72","Atlanta Dream","New York Liberty",2015-06-21,-2.5,-110,-2.5,-108,74,73.5,110
+"73","Connecticut Sun","L.A. Sparks",2015-06-21,-1.5,-110,-2,-109,67,67,-105
+"74","L.A. Sparks","Connecticut Sun",2015-06-21,1.5,-110,2,-101,67,67,-105
+"75","Tulsa Shock","Minnesota Lynx",2015-06-21,4.5,-110,4,-103,78,78,-101
+"76","Minnesota Lynx","Tulsa Shock",2015-06-21,-4.5,-110,-4,-107,78,78,-109
+"77","Phoenix Mercury","Seattle Storm",2015-06-21,-0.5,-115,-1,-109,71,70.5,-124
+"78","Seattle Storm","Phoenix Mercury",2015-06-21,0.5,-105,1,-101,71,70.5,113
+"79","L.A. Sparks","Washington Mystics",2015-06-23,7.5,-110,6.5,-108,69.5,68.5,-107
+"80","Washington Mystics","L.A. Sparks",2015-06-23,-7.5,-110,-6.5,-102,69.5,68.5,-103
+"81","Atlanta Dream","Chicago Sky",2015-06-24,4.5,-110,4.5,-104,78,79,-105
+"82","Chicago Sky","Atlanta Dream",2015-06-24,-4.5,-110,-4.5,-106,78,79,-105
+"83","Phoenix Mercury","San Antonio Stars",2015-06-25,-1,-115,-1,-105,73.5,73.5,-112
+"84","San Antonio Stars","Phoenix Mercury",2015-06-25,1,-105,1,-105,73.5,73.5,102
+"85","Minnesota Lynx","Seattle Storm",2015-06-25,-5,-110,-5.5,-114,72,72,-114
+"86","Seattle Storm","Minnesota Lynx",2015-06-25,5,-110,5.5,103,72,72,103
+"87","Chicago Sky","Indiana Fever",2015-06-26,-1,-110,-1.5,-103,81.5,81.5,-109
+"88","Indiana Fever","Chicago Sky",2015-06-26,1,-110,1.5,-107,81.5,81.5,-101
+"89","L.A. Sparks","Connecticut Sun",2015-06-26,3.5,-110,4,-110,69.5,70,-103
+"90","Connecticut Sun","L.A. Sparks",2015-06-26,-3.5,-110,-4,-100,69.5,70,-107
+"91","Washington Mystics","Atlanta Dream",2015-06-26,0.5,-110,-1.5,-104,72.5,72.5,-108
+"92","Atlanta Dream","Washington Mystics",2015-06-26,-0.5,-110,1.5,-106,72.5,72.5,-102
+"93","New York Liberty","Tulsa Shock",2015-06-26,4.5,-105,5,-110,74,75,-105
+"94","Tulsa Shock","New York Liberty",2015-06-26,-4.5,-115,-5,-100,74,75,-105
+"95","Seattle Storm","San Antonio Stars",2015-06-27,2.5,-105,2.5,-101,71,71,-105
+"96","San Antonio Stars","Seattle Storm",2015-06-27,-2.5,-115,-2.5,-109,71,71,-105
+"97","Phoenix Mercury","Minnesota Lynx",2015-06-27,4,-115,3,103,75,74.5,-105
+"98","Minnesota Lynx","Phoenix Mercury",2015-06-27,-4,-105,-3,-113,75,74.5,-105
+"99","L.A. Sparks","New York Liberty",2015-06-28,2,-105,1.5,101,69.5,70,-104
+"100","New York Liberty","L.A. Sparks",2015-06-28,-2,-115,-1.5,-111,69.5,70,-106
+"101","Chicago Sky","Washington Mystics",2015-06-28,NA,-110,NA,-110,77.5,76.5,-107
+"102","Washington Mystics","Chicago Sky",2015-06-28,NA,-110,NA,-110,77.5,76.5,-103
+"103","Seattle Storm","Tulsa Shock",2015-06-28,6.5,-110,6.5,-101,74.5,74.5,-113
+"104","Tulsa Shock","Seattle Storm",2015-06-28,-6.5,-110,-6.5,-110,74.5,74.5,102
+"105","Indiana Fever","Connecticut Sun",2015-06-30,2.5,-110,2,-104,76.5,75.5,103
+"106","Connecticut Sun","Indiana Fever",2015-06-30,-2.5,-110,-2,-106,76.5,75.5,-114
+"107","New York Liberty","Chicago Sky",2015-06-30,3.5,-105,3,-108,77,75.5,-115
+"108","Chicago Sky","New York Liberty",2015-06-30,-3.5,-115,-3,-102,77,75.5,104
+"109","San Antonio Stars","Phoenix Mercury",2015-06-30,5,-110,6,-110,74.5,74,-102
+"110","Phoenix Mercury","San Antonio Stars",2015-06-30,-5,-110,-6,-100,74.5,74,-108
+"111","Tulsa Shock","Seattle Storm",2015-06-30,-1.5,-105,-1,-105,75.5,74.5,-104
+"112","Seattle Storm","Tulsa Shock",2015-06-30,1.5,-115,1,-105,75.5,74.5,-106
+"113","Chicago Sky","Connecticut Sun",2015-07-02,-2,-105,-2,-123,78.5,76.5,-110
+"114","Connecticut Sun","Chicago Sky",2015-07-02,2,-115,2,111,78.5,76.5,100
+"115","Washington Mystics","Indiana Fever",2015-07-02,-1.5,-115,-1.5,-104,77.5,77.5,-100
+"116","Indiana Fever","Washington Mystics",2015-07-02,1.5,-105,1.5,-106,77.5,77.5,-110
+"117","Tulsa Shock","Phoenix Mercury",2015-07-02,4,-110,4,101,75,74.5,-104
+"118","Phoenix Mercury","Tulsa Shock",2015-07-02,-4,-110,-4,-111,75,74.5,-106
+"119","San Antonio Stars","L.A. Sparks",2015-07-02,3,-110,3,103,73.5,74.5,-110
+"120","L.A. Sparks","San Antonio Stars",2015-07-02,-3,-110,-3,-114,73.5,74.5,-101
+"121","Seattle Storm","Minnesota Lynx",2015-07-03,7,-115,7,-101,72.5,73.5,-105
+"122","Minnesota Lynx","Seattle Storm",2015-07-03,-7,-105,-7,-110,72.5,73.5,-105
+"123","Tulsa Shock","L.A. Sparks",2015-07-03,2.5,-110,3,-110,74.5,73.5,-115
+"124","L.A. Sparks","Tulsa Shock",2015-07-03,-2.5,-110,-3,-101,74.5,73.5,104
+"125","Seattle Storm","Atlanta Dream",2015-07-05,4,-110,3.5,-104,73.5,73,-123
+"126","Atlanta Dream","Seattle Storm",2015-07-05,-4,-110,-3.5,-106,73.5,73,111
+"127","Phoenix Mercury","L.A. Sparks",2015-07-05,-2,-105,-1.5,-110,76.5,77.5,-101
+"128","L.A. Sparks","Phoenix Mercury",2015-07-05,2,-115,1.5,-100,76.5,77.5,-109
+"129","Tulsa Shock","Atlanta Dream",2015-07-07,2.5,-105,2.5,-107,75.5,75.5,-106
+"130","Atlanta Dream","Tulsa Shock",2015-07-07,-2.5,-115,-2.5,-103,75.5,75.5,-104
+"131","Seattle Storm","Indiana Fever",2015-07-08,3.5,-110,3.5,-102,73.5,73.5,-118
+"132","Indiana Fever","Seattle Storm",2015-07-08,-3.5,-110,-3.5,-108,73.5,73.5,107
+"133","L.A. Sparks","San Antonio Stars",2015-07-08,-2,-110,-1.5,-121,77.5,77,102
+"134","San Antonio Stars","L.A. Sparks",2015-07-08,2,-110,1.5,110,77.5,77,-113
+"135","New York Liberty","Washington Mystics",2015-07-09,2,-110,2,-105,70.5,70.5,-130
+"136","Washington Mystics","New York Liberty",2015-07-09,-2,-110,-2,-105,70.5,70.5,118
+"137","San Antonio Stars","Indiana Fever",2015-07-10,4.5,-115,4,-107,76.5,75.5,104
+"138","Indiana Fever","San Antonio Stars",2015-07-10,-4.5,-105,-4,-103,76.5,75.5,-114
+"139","Minnesota Lynx","Chicago Sky",2015-07-10,-1,-115,-2,-101,78,77.5,-101
+"140","Chicago Sky","Minnesota Lynx",2015-07-10,1,-105,2,-109,78,77.5,-109
+"141","Phoenix Mercury","Seattle Storm",2015-07-10,-3.5,-115,-4.5,-100,73,72.5,-105
+"142","Seattle Storm","Phoenix Mercury",2015-07-10,3.5,-105,4.5,-110,73,72.5,-105
+"143","L.A. Sparks","Tulsa Shock",2015-07-11,2.5,-110,2,-104,78.5,78,-107
+"144","Tulsa Shock","L.A. Sparks",2015-07-11,-2.5,-110,-2,-106,78.5,78,-103
+"145","New York Liberty","Atlanta Dream",2015-07-12,1,-110,-1,-108,73.5,72,-109
+"146","Atlanta Dream","New York Liberty",2015-07-12,-1,-110,1,-102,73.5,72,-101
+"147","Connecticut Sun","Chicago Sky",2015-07-12,4,-110,4,-101,78,77.5,-110
+"148","Chicago Sky","Connecticut Sun",2015-07-12,-4,-110,-4,-109,78,77.5,-100
+"149","Seattle Storm","Phoenix Mercury",2015-07-12,7.5,-110,8.5,-108,75,74,-113
+"150","Phoenix Mercury","Seattle Storm",2015-07-12,-7.5,-110,-8.5,-102,75,74,102
+"151","San Antonio Stars","Minnesota Lynx",2015-07-12,8.5,-110,8.5,100,74.5,73.5,-105
+"152","Minnesota Lynx","San Antonio Stars",2015-07-12,-8.5,-110,-8.5,-110,74.5,73.5,-105
+"153","Minnesota Lynx","Connecticut Sun",2015-07-14,-3.5,-110,-3.5,-107,72.5,72.5,-111
+"154","Connecticut Sun","Minnesota Lynx",2015-07-14,3.5,-110,3.5,-103,72.5,72.5,101
+"155","Atlanta Dream","Phoenix Mercury",2015-07-14,4.5,-105,5.5,-114,76.5,76,-107
+"156","Phoenix Mercury","Atlanta Dream",2015-07-14,-4.5,-115,-5.5,103,76.5,76,-103
+"157","San Antonio Stars","New York Liberty",2015-07-15,4.5,-105,4.5,108,72,72,105
+"158","New York Liberty","San Antonio Stars",2015-07-15,-4.5,-115,-4.5,-119,72,72,-116
+"159","Washington Mystics","Chicago Sky",2015-07-15,2.5,-105,2.5,102,78,78,-107
+"160","Chicago Sky","Washington Mystics",2015-07-15,-2.5,-115,-2.5,-113,78,78,-103
+"161","L.A. Sparks","Seattle Storm",2015-07-15,-0.5,-105,-0.5,-109,72.5,72.5,-109
+"162","Seattle Storm","L.A. Sparks",2015-07-15,0.5,-115,0.5,-101,72.5,72.5,-101
+"163","Tulsa Shock","Indiana Fever",2015-07-15,1.5,-110,NA,-110,80,NA,-110
+"164","Indiana Fever","Tulsa Shock",2015-07-15,-1.5,-110,NA,-110,80,NA,-110
+"165","Atlanta Dream","L.A. Sparks",2015-07-16,1.5,-115,0.5,103,76.5,75.5,-118
+"166","L.A. Sparks","Atlanta Dream",2015-07-16,-1.5,-105,-0.5,-114,76.5,75.5,107
+"167","Connecticut Sun","New York Liberty",2015-07-16,4,-115,3,-107,73.5,73.5,-103
+"168","New York Liberty","Connecticut Sun",2015-07-16,-4,-105,-3,-103,73.5,73.5,-107
+"169","Indiana Fever","Washington Mystics",2015-07-17,1.5,-115,0.5,101,75.5,74.5,-107
+"170","Washington Mystics","Indiana Fever",2015-07-17,-1.5,-105,-0.5,-111,75.5,74.5,-103
+"171","Chicago Sky","Minnesota Lynx",2015-07-17,3.5,-110,2.5,108,78.5,77.5,-113
+"172","Minnesota Lynx","Chicago Sky",2015-07-17,-3.5,-110,-2.5,-119,78.5,77.5,103
+"173","Tulsa Shock","San Antonio Stars",2015-07-17,-2.5,-110,-2.5,-101,75.5,75,-102
+"174","San Antonio Stars","Tulsa Shock",2015-07-17,2.5,-110,2.5,-109,75.5,75,-108
+"175","Atlanta Dream","Seattle Storm",2015-07-18,-1,-110,-1,-107,73,73,-104
+"176","Seattle Storm","Atlanta Dream",2015-07-18,1,-110,1,-103,73,73,-106
+"177","New York Liberty","Phoenix Mercury",2015-07-18,4,-110,3.5,-102,73.5,73.5,-107
+"178","Phoenix Mercury","New York Liberty",2015-07-18,-4,-110,-3.5,-108,73.5,73.5,-103
+"179","Indiana Fever","Connecticut Sun",2015-07-18,1.5,-115,1,-103,77,76,-119
+"180","Connecticut Sun","Indiana Fever",2015-07-18,-1.5,-105,-1,-107,77,76,108
+"181","Minnesota Lynx","Tulsa Shock",2015-07-19,-1.5,-115,-1.5,-113,76,75.5,-102
+"182","Tulsa Shock","Minnesota Lynx",2015-07-19,1.5,-105,1.5,102,76,75.5,-108
+"183","San Antonio Stars","Chicago Sky",2015-07-19,6.5,-110,6.5,-100,78,77.5,-102
+"184","Chicago Sky","San Antonio Stars",2015-07-19,-6.5,-110,-6.5,-110,78,77.5,-108
+"185","Connecticut Sun","Washington Mystics",2015-07-19,3,-115,3,100,70,70.5,-109
+"186","Washington Mystics","Connecticut Sun",2015-07-19,-3,-105,-3,-111,70,70.5,-101
+"187","Indiana Fever","San Antonio Stars",2015-07-21,-1,-110,-0.5,-111,75,75,-107
+"188","San Antonio Stars","Indiana Fever",2015-07-21,1,-110,0.5,101,75,75,-103
+"189","Washington Mystics","Tulsa Shock",2015-07-21,1.5,-110,2,-109,74,74.5,-106
+"190","Tulsa Shock","Washington Mystics",2015-07-21,-1.5,-110,-2,-101,74,74.5,-104
+"191","Atlanta Dream","Chicago Sky",2015-07-21,5,-110,5,-103,80.5,80.5,-114
+"192","Chicago Sky","Atlanta Dream",2015-07-21,-5,-110,-5,-108,80.5,80.5,103
+"193","New York Liberty","Seattle Storm",2015-07-21,-2,-110,-2,-118,71,72,-113
+"194","Seattle Storm","New York Liberty",2015-07-21,2,-110,2,107,71,72,102
+"195","Phoenix Mercury","L.A. Sparks",2015-07-21,-2,-110,-2,101,75,75,-107
+"196","L.A. Sparks","Phoenix Mercury",2015-07-21,2,-110,2,-111,75,75,-103
+"197","Connecticut Sun","Minnesota Lynx",2015-07-22,4,-105,4,106,72.5,73,-104
+"198","Minnesota Lynx","Connecticut Sun",2015-07-22,-4,-115,-4,-117,72.5,73,-106
+"199","New York Liberty","L.A. Sparks",2015-07-22,1,-110,NA,-110,73,NA,-110
+"200","L.A. Sparks","New York Liberty",2015-07-22,-1,-110,NA,-110,73,NA,-110
+"201","West","East",2015-07-25,-1,-110,NA,-110,114,NA,-110
+"202","East","West",2015-07-25,1,-110,NA,-110,114,NA,-110
+"203","Indiana Fever","Connecticut Sun",2015-07-28,1,-115,NA,-110,75.5,75.5,-111
+"204","Connecticut Sun","Indiana Fever",2015-07-28,-1,-105,NA,-110,75.5,75.5,100
+"205","Chicago Sky","Phoenix Mercury",2015-07-28,2.5,-110,1.5,-103,80,80,-115
+"206","Phoenix Mercury","Chicago Sky",2015-07-28,-2.5,-110,-1.5,-107,80,80,104
+"207","Seattle Storm","Washington Mystics",2015-07-29,4,-105,4.5,112,70.5,71,-106
+"208","Washington Mystics","Seattle Storm",2015-07-29,-4,-115,-4.5,-123,70.5,71,-104
+"209","New York Liberty","Indiana Fever",2015-07-29,NA,-110,-1,-102,74,74,-113
+"210","Indiana Fever","New York Liberty",2015-07-29,NA,-110,1,-108,74,74,102
+"211","Atlanta Dream","San Antonio Stars",2015-07-29,0.5,-105,2,-104,76.5,75.5,-117
+"212","San Antonio Stars","Atlanta Dream",2015-07-29,-0.5,-115,-2,-106,76.5,75.5,106
+"213","L.A. Sparks","Minnesota Lynx",2015-07-29,4.5,-110,4.5,100,73,73.5,-104
+"214","Minnesota Lynx","L.A. Sparks",2015-07-29,-4.5,-110,-4.5,-110,73,73.5,-106
+"215","Phoenix Mercury","Tulsa Shock",2015-07-30,-1,-110,-0.5,-118,77,76.5,-103
+"216","Tulsa Shock","Phoenix Mercury",2015-07-30,1,-110,0.5,107,77,76.5,-107
+"217","Seattle Storm","Connecticut Sun",2015-07-31,4,-115,3.5,-101,73,73,-111
+"218","Connecticut Sun","Seattle Storm",2015-07-31,-4,-105,-3.5,-109,73,73,101
+"219","Washington Mystics","San Antonio Stars",2015-07-31,-0.5,-115,-1,-104,74.5,73.5,-115
+"220","San Antonio Stars","Washington Mystics",2015-07-31,0.5,-105,1,-106,74.5,73.5,104
+"221","Atlanta Dream","Minnesota Lynx",2015-07-31,7.5,-110,7.5,-104,77.5,77,-116
+"222","Minnesota Lynx","Atlanta Dream",2015-07-31,-7.5,-110,-7.5,-106,77.5,77,105
+"223","L.A. Sparks","Chicago Sky",2015-07-31,2.5,-105,3,-112,81,80.5,-108
+"224","Chicago Sky","L.A. Sparks",2015-07-31,-2.5,-115,-3,101,81,80.5,-102
+"225","Minnesota Lynx","Tulsa Shock",2015-08-01,-3,-110,-2.5,-110,75.5,75,-115
+"226","Tulsa Shock","Minnesota Lynx",2015-08-01,3,-110,2.5,100,75.5,75,104
+"227","Seattle Storm","New York Liberty",2015-08-02,4.5,-110,5,-109,73,72.5,-118
+"228","New York Liberty","Seattle Storm",2015-08-02,-4.5,-110,-5,-101,73,72.5,107
+"229","Phoenix Mercury","Atlanta Dream",2015-08-02,-3,-110,-3,-126,77,77,-125
+"230","Atlanta Dream","Phoenix Mercury",2015-08-02,3,-110,3,114,77,77,113
+"231","L.A. Sparks","San Antonio Stars",2015-08-02,-2,-110,-2.5,-103,75,75,-107
+"232","San Antonio Stars","L.A. Sparks",2015-08-02,2,-110,2.5,-107,75,75,-103
+"233","Connecticut Sun","Indiana Fever",2015-08-02,3.5,-110,3,-107,75,74.5,-110
+"234","Indiana Fever","Connecticut Sun",2015-08-02,-3.5,-110,-3,-103,75,74.5,100
+"235","Washington Mystics","Chicago Sky",2015-08-02,2.5,-110,3,-109,79.5,78,-113
+"236","Chicago Sky","Washington Mystics",2015-08-02,-2.5,-110,-3,-101,79.5,78,102
+"237","San Antonio Stars","Connecticut Sun",2015-08-04,2.5,-110,1.5,-103,74.5,74.5,-126
+"238","Connecticut Sun","San Antonio Stars",2015-08-04,-2.5,-110,-1.5,-107,74.5,74.5,114
+"239","Indiana Fever","Chicago Sky",2015-08-04,3,-110,3,-108,80.5,80,-109
+"240","Chicago Sky","Indiana Fever",2015-08-04,-3,-110,-3,-102,80.5,80,-101
+"241","Tulsa Shock","Phoenix Mercury",2015-08-04,4.5,-110,4,-101,75.5,75,-114
+"242","Phoenix Mercury","Tulsa Shock",2015-08-04,-4.5,-110,-4,-109,75.5,75,103
+"243","Minnesota Lynx","L.A. Sparks",2015-08-04,-1.5,-110,-0.5,-114,76,75,-110
+"244","L.A. Sparks","Minnesota Lynx",2015-08-04,1.5,-110,0.5,103,76,75,100
+"245","San Antonio Stars","Washington Mystics",2015-08-05,5,-110,5.5,-105,74,73.5,101
+"246","Washington Mystics","San Antonio Stars",2015-08-05,-5,-110,-5.5,-105,74,73.5,-112
+"247","Tulsa Shock","L.A. Sparks",2015-08-06,4,-110,4,-104,75.5,75.5,-103
+"248","L.A. Sparks","Tulsa Shock",2015-08-06,-4,-110,-4,-106,75.5,75.5,-107
+"249","Washington Mystics","Connecticut Sun",2015-08-07,-1,-110,-0.5,-107,71,72.5,-107
+"250","Connecticut Sun","Washington Mystics",2015-08-07,1,-110,0.5,-103,71,72.5,-103
+"251","Atlanta Dream","Indiana Fever",2015-08-07,4,-105,4.5,100,79,78,-106
+"252","Indiana Fever","Atlanta Dream",2015-08-07,-4,-115,-4.5,-111,79,78,-104
+"253","New York Liberty","Chicago Sky",2015-08-07,2.5,-105,2,-103,79,78.5,-105
+"254","Chicago Sky","New York Liberty",2015-08-07,-2.5,-115,-2,-107,79,78.5,-105
+"255","Minnesota Lynx","Phoenix Mercury",2015-08-07,0,-110,-0.5,-102,74,74,-103
+"256","Phoenix Mercury","Minnesota Lynx",2015-08-07,0,-110,0.5,-108,74,74,-107
+"257","Seattle Storm","San Antonio Stars",2015-08-08,2,-110,2,107,73.5,73,-105
+"258","San Antonio Stars","Seattle Storm",2015-08-08,-2,-110,-2,-118,73.5,73,-105
+"259","Phoenix Mercury","Chicago Sky",2015-08-09,2,-115,2,-108,79.5,79.5,-106
+"260","Chicago Sky","Phoenix Mercury",2015-08-09,-2,-105,-2,-103,79.5,79.5,-104
+"261","Connecticut Sun","Washington Mystics",2015-08-09,3.5,-110,4,-107,72.5,71.5,100
+"262","Washington Mystics","Connecticut Sun",2015-08-09,-3.5,-110,-4,-103,72.5,71.5,-110
+"263","Atlanta Dream","Tulsa Shock",2015-08-09,3,-105,4,-106,79.5,78.5,-103
+"264","Tulsa Shock","Atlanta Dream",2015-08-09,-3,-115,-4,-104,79.5,78.5,-107
+"265","L.A. Sparks","Minnesota Lynx",2015-08-09,3,-115,2.5,-102,74.5,74,-112
+"266","Minnesota Lynx","L.A. Sparks",2015-08-09,-3,-105,-2.5,-108,74.5,74,102
+"267","Chicago Sky","New York Liberty",2015-08-11,2,-115,3.5,-104,77,75.5,108
+"268","New York Liberty","Chicago Sky",2015-08-11,-2,-105,-3.5,-106,77,75.5,-119
+"269","Indiana Fever","Washington Mystics",2015-08-11,2,-110,1.5,-106,75,75,-115
+"270","Washington Mystics","Indiana Fever",2015-08-11,-2,-110,-1.5,-104,75,75,104
+"271","San Antonio Stars","Minnesota Lynx",2015-08-11,8,-110,7.5,-101,74.5,73.5,-116
+"272","Minnesota Lynx","San Antonio Stars",2015-08-11,-8,-110,-7.5,-109,74.5,73.5,105
+"273","Seattle Storm","L.A. Sparks",2015-08-11,6.5,-110,7.5,-108,73.5,74,-105
+"274","L.A. Sparks","Seattle Storm",2015-08-11,-6.5,-110,-7.5,-102,73.5,74,-105
+"275","Tulsa Shock","Connecticut Sun",2015-08-12,2,-115,2,-108,76,75.5,-106
+"276","Connecticut Sun","Tulsa Shock",2015-08-12,-2,-105,-2,-102,76,75.5,-104
+"277","Seattle Storm","Phoenix Mercury",2015-08-12,7.5,-110,7.5,-103,73.5,73,-106
+"278","Phoenix Mercury","Seattle Storm",2015-08-12,-7.5,-110,-7.5,-107,73.5,73,-104
+"279","New York Liberty","Connecticut Sun",2015-08-14,-2.5,-110,-2.5,-103,73,72,-120
+"280","Connecticut Sun","New York Liberty",2015-08-14,2.5,-110,2.5,-107,73,72,109
+"281","Minnesota Lynx","Atlanta Dream",2015-08-14,-4,-115,-4,-107,79,78,-113
+"282","Atlanta Dream","Minnesota Lynx",2015-08-14,4,-105,4,-103,79,78,102
+"283","Chicago Sky","Seattle Storm",2015-08-14,-2.5,-110,-3,-105,78.5,78.5,-104
+"284","Seattle Storm","Chicago Sky",2015-08-14,2.5,-110,3,-105,78.5,78.5,-106
+"285","Tulsa Shock","New York Liberty",2015-08-15,4.5,-115,4.5,-104,74.5,74,-112
+"286","New York Liberty","Tulsa Shock",2015-08-15,-4.5,-105,-4.5,-107,74.5,74,102
+"287","Connecticut Sun","Atlanta Dream",2015-08-16,1,-110,2,-110,79,78.5,-108
+"288","Atlanta Dream","Connecticut Sun",2015-08-16,-1,-110,-2,100,79,78.5,-103
+"289","Minnesota Lynx","Washington Mystics",2015-08-16,-2,-110,-2,-104,73,72.5,-136
+"290","Washington Mystics","Minnesota Lynx",2015-08-16,2,-110,2,-106,73,72.5,123
+"291","Chicago Sky","L.A. Sparks",2015-08-16,1.5,-110,2,-106,81,80.5,-114
+"292","L.A. Sparks","Chicago Sky",2015-08-16,-1.5,-110,-2,-104,81,80.5,103
+"293","Indiana Fever","Phoenix Mercury",2015-08-16,3,-110,3,-106,76,75,-129
+"294","Phoenix Mercury","Indiana Fever",2015-08-16,-3,-110,-3,-104,76,75,117
+"295","San Antonio Stars","Seattle Storm",2015-08-16,1,-105,1,-108,75,75.5,-104
+"296","Seattle Storm","San Antonio Stars",2015-08-16,-1,-115,-1,-102,75,75.5,-106
+"297","Phoenix Mercury","Tulsa Shock",2015-08-18,-2,-105,-2,-109,75.5,75,-105
+"298","Tulsa Shock","Phoenix Mercury",2015-08-18,2,-115,2,-101,75.5,75,-105
+"299","Indiana Fever","L.A. Sparks",2015-08-18,3,-110,2,-104,76.5,75.5,-112
+"300","L.A. Sparks","Indiana Fever",2015-08-18,-3,-110,-2,-106,76.5,75.5,102
+"301","Washington Mystics","Minnesota Lynx",2015-08-19,5.5,-110,5.5,-104,73,72.5,-104
+"302","Minnesota Lynx","Washington Mystics",2015-08-19,-5.5,-110,-5.5,-106,73,72.5,-106
+"303","New York Liberty","San Antonio Stars",2015-08-19,-2.5,-115,-3.5,-106,74,72.5,-104
+"304","San Antonio Stars","New York Liberty",2015-08-19,2.5,-105,3.5,-104,74,72.5,-106
+"305","Atlanta Dream","New York Liberty",2015-08-21,5.5,-115,5.5,-107,77.5,76.5,-109
+"306","New York Liberty","Atlanta Dream",2015-08-21,-5.5,-105,-5.5,-103,77.5,76.5,-101
+"307","Minnesota Lynx","San Antonio Stars",2015-08-21,-4.5,-110,-4,-109,74,73.5,-114
+"308","San Antonio Stars","Minnesota Lynx",2015-08-21,4.5,-110,4,-101,74,73.5,103
+"309","Connecticut Sun","Tulsa Shock",2015-08-21,3,-110,2.5,-101,77,76.5,-108
+"310","Tulsa Shock","Connecticut Sun",2015-08-21,-3,-110,-2.5,-109,77,76.5,-102
+"311","Washington Mystics","Chicago Sky",2015-08-21,2.5,-110,2.5,-106,77,76.5,-107
+"312","Chicago Sky","Washington Mystics",2015-08-21,-2.5,-110,-2.5,-104,77,76.5,-103
+"313","L.A. Sparks","Phoenix Mercury",2015-08-21,2.5,-115,2.5,-104,73,72,-103
+"314","Phoenix Mercury","L.A. Sparks",2015-08-21,-2.5,-105,-2.5,-106,73,72,-107
+"315","Indiana Fever","Seattle Storm",2015-08-21,-2.5,-110,-3.5,-102,75,75,-127
+"316","Seattle Storm","Indiana Fever",2015-08-21,2.5,-110,3.5,-108,75,75,115
+"317","Chicago Sky","Washington Mystics",2015-08-23,1,-110,1,-113,78,77.5,-117
+"318","Washington Mystics","Chicago Sky",2015-08-23,-1,-110,-1,102,78,77.5,106
+"319","L.A. Sparks","San Antonio Stars",2015-08-23,-3,-110,-2.5,-106,73.5,73,-102
+"320","San Antonio Stars","L.A. Sparks",2015-08-23,3,-110,2.5,-104,73.5,73,-108
+"321","New York Liberty","Indiana Fever",2015-08-23,1,-110,0.5,110,74,73.5,-109
+"322","Indiana Fever","New York Liberty",2015-08-23,-1,-110,-0.5,-121,74,73.5,-101
+"323","Minnesota Lynx","Phoenix Mercury",2015-08-23,0,-110,NA,-110,73,72.5,-103
+"324","Phoenix Mercury","Minnesota Lynx",2015-08-23,0,-110,NA,-110,73,72.5,-107
+"325","Atlanta Dream","Connecticut Sun",2015-08-23,0,-110,-1,-119,79.5,77.5,-108
+"326","Connecticut Sun","Atlanta Dream",2015-08-23,0,-110,1,108,79.5,77.5,-102
+"327","Connecticut Sun","Atlanta Dream",2015-08-25,4,-110,4.5,-105,79,79,-109
+"328","Atlanta Dream","Connecticut Sun",2015-08-25,-4,-110,-4.5,-105,79,79,-101
+"329","L.A. Sparks","Indiana Fever",2015-08-26,2,-105,2,-104,76,75,-104
+"330","Indiana Fever","L.A. Sparks",2015-08-26,-2,-115,-2,-106,76,75,-106
+"331","Phoenix Mercury","Connecticut Sun",2015-08-27,-3.5,-115,-4,-123,74.5,73.5,-106
+"332","Connecticut Sun","Phoenix Mercury",2015-08-27,3.5,-105,4,112,74.5,73.5,-104
+"333","Phoenix Mercury","Washington Mystics",2015-08-28,1.5,-110,2.5,-110,72,71,-107
+"334","Washington Mystics","Phoenix Mercury",2015-08-28,-1.5,-110,-2.5,100,72,71,-103
+"335","Atlanta Dream","Indiana Fever",2015-08-28,4.5,-110,4.5,-112,81.5,80.5,-102
+"336","Indiana Fever","Atlanta Dream",2015-08-28,-4.5,-110,-4.5,102,81.5,80.5,-108
+"337","Minnesota Lynx","New York Liberty",2015-08-28,1,-110,1.5,-106,73,72.5,-112
+"338","New York Liberty","Minnesota Lynx",2015-08-28,-1,-110,-1.5,-104,73,72.5,102
+"339","L.A. Sparks","Tulsa Shock",2015-08-28,-1.5,-105,-0.5,-108,76.5,76,-105
+"340","Tulsa Shock","L.A. Sparks",2015-08-28,1.5,-115,0.5,-102,76.5,76,-105
+"341","San Antonio Stars","Seattle Storm",2015-08-28,2,-115,2,-107,74,74,-105
+"342","Seattle Storm","San Antonio Stars",2015-08-28,-2,-105,-2,-104,74,74,-105
+"343","New York Liberty","Connecticut Sun",2015-08-29,-3,-110,-4,-101,73.5,73.5,-105
+"344","Connecticut Sun","New York Liberty",2015-08-29,3,-110,4,-109,73.5,73.5,-105
+"345","Chicago Sky","Atlanta Dream",2015-08-29,-1.5,-110,-1,-108,83,79,-108
+"346","Atlanta Dream","Chicago Sky",2015-08-29,1.5,-110,1,-102,83,79,-102
+"347","Indiana Fever","Tulsa Shock",2015-08-30,NA,-110,0.5,102,78.5,77.5,-112
+"348","Tulsa Shock","Indiana Fever",2015-08-30,NA,-110,-0.5,-113,78.5,77.5,101
+"349","Phoenix Mercury","Minnesota Lynx",2015-08-30,3.5,-110,3.5,-103,72.5,71.5,-112
+"350","Minnesota Lynx","Phoenix Mercury",2015-08-30,-3.5,-110,-3.5,-107,72.5,71.5,101
+"351","San Antonio Stars","L.A. Sparks",2015-08-30,6.5,-115,6.5,-103,73.5,73.5,-104
+"352","L.A. Sparks","San Antonio Stars",2015-08-30,-6.5,-105,-6.5,-107,73.5,73.5,-106
+"353","Connecticut Sun","Chicago Sky",2015-08-30,5,-105,5,-104,78,77.5,-102
+"354","Chicago Sky","Connecticut Sun",2015-08-30,-5,-115,-5,-106,78,77.5,-108
+"355","Washington Mystics","Seattle Storm",2015-08-30,-2.5,-105,-2,-108,72,72,-106
+"356","Seattle Storm","Washington Mystics",2015-08-30,2.5,-115,2,-102,72,72,-104
+"357","Atlanta Dream","New York Liberty",2015-09-01,5.5,-110,NA,-110,72.5,NA,-110
+"358","New York Liberty","Atlanta Dream",2015-09-01,-5.5,-110,NA,-110,72.5,NA,-110
+"359","Connecticut Sun","Indiana Fever",2015-09-01,4.5,-105,5.5,100,75.5,75,-109
+"360","Indiana Fever","Connecticut Sun",2015-09-01,-4.5,-115,-5.5,-110,75.5,75,-101
+"361","Washington Mystics","Phoenix Mercury",2015-09-02,2.5,-110,1.5,-100,70,70.5,-114
+"362","Phoenix Mercury","Washington Mystics",2015-09-02,-2.5,-110,-1.5,-110,70,70.5,103
+"363","Chicago Sky","New York Liberty",2015-09-03,4,-110,3,102,75,75.5,-105
+"364","New York Liberty","Chicago Sky",2015-09-03,-4,-110,-3,-112,75,75.5,-105
+"365","Tulsa Shock","Seattle Storm",2015-09-03,NA,-110,1.5,-107,74,73,-116
+"366","Seattle Storm","Tulsa Shock",2015-09-03,NA,-110,-1.5,-103,74,73,106
+"367","Washington Mystics","L.A. Sparks",2015-09-03,2.5,-110,3.5,100,70.5,70,-113
+"368","L.A. Sparks","Washington Mystics",2015-09-03,-2.5,-110,-3.5,-110,70.5,70,103
+"369","Connecticut Sun","San Antonio Stars",2015-09-04,1.5,-110,2.5,-109,73,72.5,-107
+"370","San Antonio Stars","Connecticut Sun",2015-09-04,-1.5,-110,-2.5,-101,73,72.5,-103
+"371","Indiana Fever","Minnesota Lynx",2015-09-04,2.5,-115,2,-110,74,73.5,-109
+"372","Minnesota Lynx","Indiana Fever",2015-09-04,-2.5,-105,-2,-100,74,73.5,-101
+"373","Phoenix Mercury","San Antonio Stars",2015-09-05,-3.5,-115,-4,-102,71,71,-106
+"374","San Antonio Stars","Phoenix Mercury",2015-09-05,3.5,-105,4,-108,71,71,-104
+"375","Washington Mystics","Atlanta Dream",2015-09-06,1.5,-105,1,-109,76,76,-103
+"376","Atlanta Dream","Washington Mystics",2015-09-06,-1.5,-115,-1,-101,76,76,-107
+"377","Tulsa Shock","L.A. Sparks",2015-09-06,4.5,-110,4.5,-110,76,75.5,-105
+"378","L.A. Sparks","Tulsa Shock",2015-09-06,-4.5,-110,-4.5,-100,76,75.5,-105
+"379","Seattle Storm","Chicago Sky",2015-09-06,5,-110,5.5,-110,77.5,77,-115
+"380","Chicago Sky","Seattle Storm",2015-09-06,-5,-110,-5.5,-100,77.5,77,104
+"381","New York Liberty","Minnesota Lynx",2015-09-06,1.5,-110,1,-100,70,71.5,-106
+"382","Minnesota Lynx","New York Liberty",2015-09-06,-1.5,-110,-1,-110,70,71.5,-104
+"383","Indiana Fever","Washington Mystics",2015-09-08,0.5,-105,NA,-110,73,NA,-110
+"384","Washington Mystics","Indiana Fever",2015-09-08,-0.5,-115,NA,-110,73,NA,-110
+"385","San Antonio Stars","Tulsa Shock",2015-09-08,4.5,-105,NA,-110,75,NA,-110
+"386","Tulsa Shock","San Antonio Stars",2015-09-08,-4.5,-115,NA,-110,75,NA,-110
+"387","Seattle Storm","Minnesota Lynx",2015-09-08,6,-110,NA,-110,73,NA,-110
+"388","Minnesota Lynx","Seattle Storm",2015-09-08,-6,-110,NA,-110,73,NA,-110
+"389","Connecticut Sun","New York Liberty",2015-09-09,7,-110,7,108,73,72,-108
+"390","New York Liberty","Connecticut Sun",2015-09-09,-7,-110,-7,-119,73,72,-102
+"391","L.A. Sparks","Atlanta Dream",2015-09-09,-1,-110,2,-101,78,78,-103
+"392","Atlanta Dream","L.A. Sparks",2015-09-09,1,-110,-2,-109,78,78,-107
+"393","Washington Mystics","New York Liberty",2015-09-11,2,-115,2,-106,71,70.5,-113
+"394","New York Liberty","Washington Mystics",2015-09-11,-2,-105,-2,-104,71,70.5,102
+"395","Indiana Fever","Atlanta Dream",2015-09-11,0.5,-105,NA,-110,74,NA,-110
+"396","Atlanta Dream","Indiana Fever",2015-09-11,-0.5,-115,NA,-110,74,NA,-110
+"397","Tulsa Shock","Chicago Sky",2015-09-11,2.5,-110,3,105,79.5,79,-116
+"398","Chicago Sky","Tulsa Shock",2015-09-11,-2.5,-110,-3,-116,79.5,79,105
+"399","L.A. Sparks","Phoenix Mercury",2015-09-11,2.5,-110,2.5,100,72.5,71.5,-107
+"400","Phoenix Mercury","L.A. Sparks",2015-09-11,-2.5,-110,-2.5,-110,72.5,71.5,-103
+"401","Minnesota Lynx","Seattle Storm",2015-09-11,-3,-110,-2,-104,73,72.5,-122
+"402","Seattle Storm","Minnesota Lynx",2015-09-11,3,-110,2,-107,73,72.5,110
+"403","Chicago Sky","Connecticut Sun",2015-09-13,-2,-105,-2,-104,78,77.5,-109
+"404","Connecticut Sun","Chicago Sky",2015-09-13,2,-115,2,-106,78,77.5,-101
+"405","Atlanta Dream","Washington Mystics",2015-09-13,2,-115,2,-103,75,75.5,-101
+"406","Washington Mystics","Atlanta Dream",2015-09-13,-2,-105,-2,-107,75,75.5,-109
+"407","Tulsa Shock","Phoenix Mercury",2015-09-13,0.5,-105,-2,-106,74,74,-109
+"408","Phoenix Mercury","Tulsa Shock",2015-09-13,-0.5,-115,2,-104,74,74,-101
+"409","New York Liberty","Indiana Fever",2015-09-13,1.5,-110,2.5,111,74,74,-105
+"410","Indiana Fever","New York Liberty",2015-09-13,-1.5,-110,-2.5,-122,74,74,-105
+"411","San Antonio Stars","Seattle Storm",2015-09-13,4,-110,4,-107,72,72,-105
+"412","Seattle Storm","San Antonio Stars",2015-09-13,-4,-110,-4,-103,72,72,-105
+"413","Indiana Fever","Chicago Sky",2015-09-17,2.5,-105,2.5,-104,78.5,79,-109
+"414","Chicago Sky","Indiana Fever",2015-09-17,-2.5,-115,-2.5,-106,78.5,79,-101
+"415","Tulsa Shock","Phoenix Mercury",2015-09-17,NA,-110,NA,-110,NA,NA,-110
+"416","Phoenix Mercury","Tulsa Shock",2015-09-17,NA,-110,NA,-110,NA,NA,-110
+"417","Washington Mystics","New York Liberty",2015-09-18,3.5,-110,2.5,-100,70.5,69.5,-111
+"418","New York Liberty","Washington Mystics",2015-09-18,-3.5,-110,-2.5,-110,70.5,69.5,101
+"419","L.A. Sparks","Minnesota Lynx",2015-09-18,3,-110,2.5,-102,73,72.5,-106
+"420","Minnesota Lynx","L.A. Sparks",2015-09-18,-3,-110,-2.5,-108,73,72.5,-104
+"421","Chicago Sky","Indiana Fever",2015-09-19,1.5,-110,1.5,-101,78.5,78,-115
+"422","Indiana Fever","Chicago Sky",2015-09-19,-1.5,-110,-1.5,-109,78.5,78,105
+"423","Phoenix Mercury","Tulsa Shock",2015-09-19,-1.5,-110,-2,-102,74,74,-102
+"424","Tulsa Shock","Phoenix Mercury",2015-09-19,1.5,-110,2,-108,74,74,-108
+"425","New York Liberty","Washington Mystics",2015-09-20,NA,-110,-1,100,69.5,69.5,-103
+"426","Washington Mystics","New York Liberty",2015-09-20,NA,-110,1,-110,69.5,69.5,-107
+"427","Minnesota Lynx","L.A. Sparks",2015-09-20,1,-115,1.5,-103,72,72,-106
+"428","L.A. Sparks","Minnesota Lynx",2015-09-20,-1,-105,-1.5,-107,72,72,-104
+"429","Indiana Fever","Chicago Sky",2015-09-21,3,-105,2,-102,79.5,79,-107
+"430","Chicago Sky","Indiana Fever",2015-09-21,-3,-115,-2,-108,79.5,79,-103
+"431","Washington Mystics","New York Liberty",2015-09-22,3.5,-110,3,-107,70,70,-116
+"432","New York Liberty","Washington Mystics",2015-09-22,-3.5,-110,-3,-103,70,70,105
+"433","L.A. Sparks","Minnesota Lynx",2015-09-22,3,-105,2.5,-106,72.5,71.5,-107
+"434","Minnesota Lynx","L.A. Sparks",2015-09-22,-3,-115,-2.5,-104,72.5,71.5,-103
+"435","Indiana Fever","New York Liberty",2015-09-23,1.5,-110,0.5,-103,NA,NA,-110
+"436","New York Liberty","Indiana Fever",2015-09-23,-1.5,-110,-0.5,-107,NA,NA,-110
+"437","Phoenix Mercury","Minnesota Lynx",2015-09-24,3,-115,3,-107,72,71.5,-127
+"438","Minnesota Lynx","Phoenix Mercury",2015-09-24,-3,-105,-3,-103,72,71.5,115
+"439","New York Liberty","Indiana Fever",2015-09-27,1.5,-110,2,-102,73.5,73.5,-111
+"440","Indiana Fever","New York Liberty",2015-09-27,-1.5,-110,-2,-108,73.5,73.5,101
+"441","Minnesota Lynx","Phoenix Mercury",2015-09-27,1,-105,1,-111,71,71,-113
+"442","Phoenix Mercury","Minnesota Lynx",2015-09-27,-1,-115,-1,101,71,71,102
+"443","Indiana Fever","New York Liberty",2015-09-29,2,-110,2,-104,71.5,72.5,-109
+"444","New York Liberty","Indiana Fever",2015-09-29,-2,-110,-2,-106,71.5,72.5,-101
