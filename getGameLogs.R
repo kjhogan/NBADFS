@@ -132,3 +132,42 @@ export_formattable <- function(f, file, width = "100%", height = NULL,
           selector = ".formattable_widget",
           delay = delay)
 }
+
+
+
+
+
+
+
+
+##for JS
+
+update_advanced_box <- function(){
+  link <- "https://stats.nba.com/stats/teamgamelogs?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Advanced&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=Totals&Period=0&PlusMinus=N&Rank=N&Season=2018-19&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&VsConference=&VsDivision="
+  #download.file(link, "boxscores.json")
+  web_page <- readLines("boxscores.json")
+  
+  ##regex to strip javascript bits and convert raw to csv format
+  x1 <- gsub("[\\{\\}\\]]", "", web_page, perl=TRUE)
+  x2 <- gsub("[\\[]", "\n", x1, perl=TRUE)
+  x3 <- gsub("\"rowSet\":\n", "", x2, perl=TRUE)
+  x4 <- gsub(";", ",",x3, perl=TRUE)
+  advanced_box_current <-read.table(textConnection(x4), header=T, sep=",", fill=T, skip=2, stringsAsFactors=FALSE)
+  rm(x1)
+  rm(x2)
+  rm(x3)
+  rm(x4)
+  advanced_box_current <- advanced_box_current %>% mutate(SITE = if_else(grepl("@", MATCHUP), "A", "H"))
+  
+  away_adv <- advanced_box_current %>% filter(SITE == "A") %>% select(TEAM_ID, TEAM_ABBREVIATION, TEAM_NAME, GAME_ID, TM_TOV_PCT)
+  names(away_adv) <- c('OPP_ID', 'OPP_ABBREVIATION', 'OPP_NAME', 'GAME_ID', 'OPP_TOV_PCT')
+  
+  home_adv <- advanced_box_current %>% filter(SITE == "H") %>% select(TEAM_ID, TEAM_ABBREVIATION, TEAM_NAME, GAME_ID, TM_TOV_PCT)
+  names(home_adv) <- c('OPP_ID', 'OPP_ABBREVIATION', 'OPP_NAME', 'GAME_ID', 'OPP_TOV_PCT')
+  
+  home_with_opp <- advanced_box_current %>% filter(SITE == "H") %>% left_join(away_adv)
+  away_with_opp <- advanced_box_current %>% filter(SITE == "A") %>% left_join(home_adv)
+  advanced_box_current <- rbind(home_with_opp, away_with_opp) 
+  advanced_box_current <- advanced_box_current %>% select(SEASON_YEAR:PACE, SITE, OPP_ID, OPP_ABBREVIATION, OPP_NAME, OPP_TOV_PCT)
+  return(advanced_box_current)
+}
